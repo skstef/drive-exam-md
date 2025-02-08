@@ -1,0 +1,2426 @@
+[
+  {
+    "language": "en",
+    "name": "THEME 1.1. GENERAL PROVISIONS. BASIC CONCEPTS AND TERMS.",
+    "code_subject": "1.1",
+    "order_subject": 1,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 20
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 1.1. DISPOZIŢII GENERALE. NOŢIUNI ŞI TERMENI DE BAZĂ.",
+    "code_subject": "1.1",
+    "order_subject": 1,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 20
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 1.1. ОБЩИЕ ПОЛОЖЕНИЯ. ОСНОВНЫЕ ПОНЯТИЯ И ТЕРМИНЫ.",
+    "code_subject": "1.1",
+    "order_subject": 1,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 20
+  },
+  {
+    "language": "en",
+    "name": "THEME 1.2. RESPONSIBILITIES OF VEHICLE DRIVERS. PROHIBITED BY THEM AND THEIR RIGHTS.",
+    "code_subject": "1.2",
+    "order_subject": 2,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 32
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 1.2. DREPTURILE, OBLIGAŢIILE ŞI RESTRICŢIILE PENTRU CONDUCĂTORII DE VEHICULE.",
+    "code_subject": "1.2",
+    "order_subject": 2,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 32
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 1.2. ОБЯЗАННОСТИ ВОДИТЕЛЕЙ ТРАНСПОРТНЫХ СРЕДСТВ. НАЛАГАЕМЫЕ НА НИХ ЗАПРЕЩЕНИЯМ И ИХ ПРАВА.",
+    "code_subject": "1.2",
+    "order_subject": 2,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 32
+  },
+  {
+    "language": "en",
+    "name": "THEME 2.1. GENERAL PROVISIONS.\\nTHEME 2.2. ROAD SIGNS.\\nА. General Provisions. Significance of road signs.",
+    "code_subject": "2.1-2.2 A",
+    "order_subject": 3,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 120
+  },
+  {
+    "language": "ro",
+    "name": "ТEMA 2.1 DISPOZIŢII GENERALE.\\nТEMA 2.2. INDICATOARELE RUTIERE.\\nA. Dispoziţii generale. Semnificaţia indicatoarelor rutiere.",
+    "code_subject": "2.1-2.2 A",
+    "order_subject": 3,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 120
+  },
+  {
+    "language": "ru",
+    "name": "ТEMA 2.1. ОБЩИЕ ПОЛОЖЕНИЯ.\\nТEMA 2.2. ДОРОЖНЫЕ ЗНАКИ.\\nА. Общие положения. Значение дорожных знаков.",
+    "code_subject": "2.1-2.2 A",
+    "order_subject": 3,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 120
+  },
+  {
+    "language": "en",
+    "name": "B. Use of road signs.",
+    "code_subject": "2.1-2.2 B",
+    "order_subject": 4,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 66
+  },
+  {
+    "language": "ro",
+    "name": "B. Utilizarea indicatoarelor rutiere.",
+    "code_subject": "2.1-2.2 B",
+    "order_subject": 4,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 66
+  },
+  {
+    "language": "ru",
+    "name": "В. Применение дорожных знаков.",
+    "code_subject": "2.1-2.2 B",
+    "order_subject": 4,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 66
+  },
+  {
+    "language": "en",
+    "name": "THEME 2.3. ROAD MARKING AND FEATURES OF ITS APPLICATION.",
+    "code_subject": "2.3",
+    "order_subject": 5,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 48
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 2.3. MARCAJELE RUTIERE ŞI PARTICULARITĂŢILE DE APLICARE A ACESTORA.",
+    "code_subject": "2.3",
+    "order_subject": 5,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 48
+  },
+  {
+    "language": "ru",
+    "name": "ТEMA 2.3. ДОРОЖНАЯ РАЗМЕТКА И ОСОБЕННОСТИ ЕЁ ПРИМЕНЕНИЯ.",
+    "code_subject": "2.3",
+    "order_subject": 5,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 48
+  },
+  {
+    "language": "en",
+    "name": "THEME 2.4. SIGNALS OF THE REGULATOR.",
+    "code_subject": "2.4",
+    "order_subject": 6,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 30
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 2.4. SEMNALELE AGENTULUI DE CIRCULAŢIE.",
+    "code_subject": "2.4",
+    "order_subject": 6,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 30
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 2.4. СИГНАЛЫ РЕГУЛИРОВЩИКА.",
+    "code_subject": "2.4",
+    "order_subject": 6,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 30
+  },
+  {
+    "language": "en",
+    "name": "THEME 2.5. SIGNALS OF TRAFFIC LIGHTD. \\nTHEME 2.6. ALARM ON RAILWAYS.",
+    "code_subject": "2.5-2.6",
+    "order_subject": 7,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 30
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 2.5. SEMNALELE LUMINOASE. \\nTEMA 2.6. SEMNALIZAREA TRECERILOR LA NIVEL CU CALEA FERATĂ.",
+    "code_subject": "2.5-2.6",
+    "order_subject": 7,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 30
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 2.5. СИГНАЛЫ СВЕТОФОРОВ. \\nTEMA 2.6. СИГНАЛИЗАЦИЯ НА ЖЕЛЕЗНОДОРОЖНЫХ ПЕРЕЕЗДАХ.",
+    "code_subject": "2.5-2.6",
+    "order_subject": 7,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 30
+  },
+  {
+    "language": "en",
+    "name": "THEME 3. SIGNALS OF DRIVERS OF VEHICLES. USE OF EXTERNAL LIGHT INSTRUMENTS AND INSTRUMENTS OF LIGHT AND SOUND SIGNALING.",
+    "code_subject": "3",
+    "order_subject": 8,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 25
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 3. SEMNALELE CONDUCĂTORILOR DE VEHICULE. FOLOSIREA DISPOZITIVELOR DE ILUMINARE EXTERIOARA ȘI A DISPOZITIVELOR DE SEMNALIZARE LUMINOASĂ ŞI SONORA.",
+    "code_subject": "3",
+    "order_subject": 8,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 25
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 3. СИГНАЛЫ ВОДИТЕЛЕЙ ТРАНСПОРТНЫХ СРЕДСТВ. ПОЛЬЗОВАНИЕ ВНЕШНИМИ СВЕТОВЫМИ ПРИБОРАМИ И ПРИБОРАМИ СВЕТОВОЙ И ЗВУКОВОЙ СИГНАЛИЗАЦИИ.",
+    "code_subject": "3",
+    "order_subject": 8,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 25
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.1. STARTING MOVEMENT AND CHANGE OF MOTION DIRECTION.",
+    "code_subject": "4.1",
+    "order_subject": 9,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 42
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.1. ÎNCEPUTUL DEPLASĂRII ȘI SCHIMBAREA DIRECŢIEI DE MERS.",
+    "code_subject": "4.1",
+    "order_subject": 9,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 42
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.1. НАЧАЛО ДВИЖЕНИЯ И ИЗМЕНЕНИЕ НАПРАВЛЕНИЯ ДВИЖЕНИЯ.",
+    "code_subject": "4.1",
+    "order_subject": 9,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 42
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.2. LOCATION OF VEHICLES ON THE ROAD.",
+    "code_subject": "4.2",
+    "order_subject": 10,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 24
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.2. POZIŢIA VEHICULELOR PE CAROSABIL.",
+    "code_subject": "4.2",
+    "order_subject": 10,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 24
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.2. РАСПОЛОЖЕНИЕ ТРАНСПОРТНЫХ СРЕДСТВ НА ПРОЕЗЖЕЙ ЧАСТИ.",
+    "code_subject": "4.2",
+    "order_subject": 10,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 24
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.3. MOVEMENT SPEED AND DISTANCE BETWEEN VEHICLES.",
+    "code_subject": "4.3",
+    "order_subject": 11,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 24
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.3. VITEZA DE DEPLASARE ŞI SPAŢIUL ÎNTRE VEHICULE.",
+    "code_subject": "4.3",
+    "order_subject": 11,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 24
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.3. СКОРОСТЬ ДВИЖЕНИЯ И ДИСТАНЦИЯ МЕЖДУ ТРАНСПОРТНЫМИ СРЕДСТВАМИ.",
+    "code_subject": "4.3",
+    "order_subject": 11,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 24
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.4. OVERTAKING AND MEETING.",
+    "code_subject": "4.4",
+    "order_subject": 12,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 30
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.4. DEPĂŞIREA ŞI TRECEREA ÎN SENSURI OPUSE.",
+    "code_subject": "4.4",
+    "order_subject": 12,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 30
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.4. ОБГОН И ВСТРЕЧНЫЙ РАЗЪЕЗД.",
+    "code_subject": "4.4",
+    "order_subject": 12,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 30
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.5. CROSSROADS AND TRAFFIC THROUGH RAILWAYS. \\nA. Adjustable intersections.",
+    "code_subject": "4.5 A",
+    "order_subject": 13,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 30
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.5. CIRCULAŢIA ÎN INTERSECŢII ȘI TRAVERSAREA CĂILOR FERATE. \\nA. Intersecţii cu circulaţie dirijată.",
+    "code_subject": "4.5 A",
+    "order_subject": 13,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 30
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.5. ПРОЕЗД ПЕРЕКРЁСТКОВ И ДВИЖЕНИЕ ЧЕРЕЗ ЖЕЛЕЗНОДОРОЖНЫЕ ПУТИ. \\nА. Регулируемые перекрёстки.",
+    "code_subject": "4.5 A",
+    "order_subject": 13,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 30
+  },
+  {
+    "language": "en",
+    "name": "B. Crossroads of uneven roads.",
+    "code_subject": "4.5 B",
+    "order_subject": 14,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 18
+  },
+  {
+    "language": "ro",
+    "name": "B. Intersecţiile drumurilor de semnificaţie neechivalentă.",
+    "code_subject": "4.5 B",
+    "order_subject": 14,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 18
+  },
+  {
+    "language": "ru",
+    "name": "B. Перекрёстки неравнозначных дорог.",
+    "code_subject": "4.5 B",
+    "order_subject": 14,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 18
+  },
+  {
+    "language": "en",
+    "name": "C. Crossroads where the main road changes direction.",
+    "code_subject": "4.5 C",
+    "order_subject": 15,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 54
+  },
+  {
+    "language": "ro",
+    "name": "С. Intersecţiile în care drumul cu prioritate îşi schimbă direcţia.",
+    "code_subject": "4.5 C",
+    "order_subject": 15,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 54
+  },
+  {
+    "language": "ru",
+    "name": "С. Перекрёстки, на которых главная дорога меняет направление.",
+    "code_subject": "4.5 C",
+    "order_subject": 15,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 54
+  },
+  {
+    "language": "en",
+    "name": "D. Crossroads of equivalent roads.",
+    "code_subject": "4.5 D",
+    "order_subject": 16,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 42
+  },
+  {
+    "language": "ro",
+    "name": "D. Intersecţiile drumurilor de semnificaţie echivalentă.",
+    "code_subject": "4.5 D",
+    "order_subject": 16,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 42
+  },
+  {
+    "language": "ru",
+    "name": "D. Перекрёстки равнозначных дорог.",
+    "code_subject": "4.5 D",
+    "order_subject": 16,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 42
+  },
+  {
+    "language": "en",
+    "name": "E. Traffic through railways.",
+    "code_subject": "4.5 E",
+    "order_subject": 17,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 12
+  },
+  {
+    "language": "ro",
+    "name": "E. Traversarea căilor ferate.",
+    "code_subject": "4.5 E",
+    "order_subject": 17,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 12
+  },
+  {
+    "language": "ru",
+    "name": "Е. Движение через железнодорожные пути.",
+    "code_subject": "4.5 E",
+    "order_subject": 17,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 12
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.6. STOP AND PARKING. PARKING.",
+    "code_subject": "4.6",
+    "order_subject": 18,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 36
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 4.6. OPRIREA Şl STAŢIONAREA VOLUNTARĂ. PARCAREA.",
+    "code_subject": "4.6",
+    "order_subject": 18,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 36
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 4.6. ОСТАНОВКА И СТОЯНКА. ПАРКОВКА.",
+    "code_subject": "4.6",
+    "order_subject": 18,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 36
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.7. TOWING DAMAGED MECHANICAL VEHICLES AND TRAILERS.",
+    "code_subject": "4.7",
+    "order_subject": 19,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 14
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 4.7. REMORCAREA AUTOVEHICULELOR RÂMASE ÎN PANĂ ȘI TRACTAREA REMORCILOR.",
+    "code_subject": "4.7",
+    "order_subject": 19,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 14
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 4.7. БУКСИРОВКА НЕИСПРАВНЫХ МЕХАНИЧЕСКИХ ТРАНСПОРТНЫХ СРЕДСТВ И ПРИЦЕПОВ.",
+    "code_subject": "4.7",
+    "order_subject": 19,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 14
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.8. MOVEMENT IN RESIDENTIAL AND PEDESTRIAN ZONES. TRAFFIC ON THE HIGHWAYS. \\nА. Traffic in residential and pedestrian areas.",
+    "code_subject": "4.8 A",
+    "order_subject": 20,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 4.8. CIRCULAŢIA PRIN ZONELE REZIDENŢIALE ȘI PIETONALE. CIRCULATE PE AUTOSTRĂZI.\\nA. Circulaţia prin zonele rezidenţiale şi pietonale.",
+    "code_subject": "4.8 A",
+    "order_subject": 20,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 4.8. ДВИЖЕНИЕ В ЖИЛЫХ И ПЕШЕХОДНЫХ ЗОНАХ. ДВИЖЕНИЕ НА АВТОМАГИСТРАЛЯХ.\\nА. Движение в жилых и пешеходных зонах.",
+    "code_subject": "4.8 A",
+    "order_subject": 20,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "en",
+    "name": "B. Traffic on motorways.",
+    "code_subject": "4.8 B",
+    "order_subject": 21,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 12
+  },
+  {
+    "language": "ro",
+    "name": "B. Circulaţie pe autostrăzi.",
+    "code_subject": "4.8 B",
+    "order_subject": 21,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 12
+  },
+  {
+    "language": "ru",
+    "name": "В. Движение на автомагистралях.",
+    "code_subject": "4.8 B",
+    "order_subject": 21,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 12
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.9. PARTICIPATION OF VEHICLES IN INTERNATIONAL TRAFFIC. DRIVING TRAINING VEHICLES. \\nA. The participation of vehicles in international traffic.",
+    "code_subject": "4.9 A",
+    "order_subject": 22,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "ro",
+    "name": "ТEMA 4.9. CIRCULAŢIA AUTOVEHICULELOR ÎN TRAFICUL INTERNAŢIONAL. INSTRUIREA ÎN CONDUCEREA AUTOVEHICULELOR.\\nA. Circulaţia autovehiculelor în traficul internaţional.",
+    "code_subject": "4.9 A",
+    "order_subject": 22,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "ru",
+    "name": "ТEMA 4.9. УЧАСТИЕ ТРАНСПОРТНЫХ СРЕДСТВ В МЕЖДУНАРОДНОМ ДВИЖЕНИИ. ОБУЧЕНИЕ ВОЖДЕНИЮ ТРАНСПОРТНЫХ СРЕДСТВ.\\nA. Участие транспортных средств в международном движении.",
+    "code_subject": "4.9 A",
+    "order_subject": 22,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "en",
+    "name": "B. Training in driving vehicles.",
+    "code_subject": "4.9 B",
+    "order_subject": 23,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "ro",
+    "name": "B. Instruirea în conducerea autovehiculelor.",
+    "code_subject": "4.9 B",
+    "order_subject": 23,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "ru",
+    "name": "В. Обучение вождению транспортных средств.",
+    "code_subject": "4.9 B",
+    "order_subject": 23,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.10. VEHICLES WITH PRIORITY MOVEMENT AND RESPONSIBILITIES OF OTHER DRIVERS.",
+    "code_subject": "4.10",
+    "order_subject": 24,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 18
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 4.10. REGULI PRIVIND CIRCULAŢIA VEHICULELOR CU REGIM PRIORITAR DE CIRCULAŢIE ȘI OBLIGAŢIILE CELORLALŢI CONDUCĂTORI DE VEHICULE.",
+    "code_subject": "4.10",
+    "order_subject": 24,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 18
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 4.10. ТРАНСПОРТНЫЕ СРЕДСТВА С ПРИОРИТЕТНЫМ РЕЖИМОМ ДВИЖЕНИЯ И ОБЯЗАННОСТИ ДРУГИХ ВОДИТЕЛЕЙ.",
+    "code_subject": "4.10",
+    "order_subject": 24,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 18
+  },
+  {
+    "language": "en",
+    "name": "THEME 5. TRANSPORTATION OF PASSENGERS AND CARGO. \\nA. Carriage of passengers.",
+    "code_subject": "5 A",
+    "order_subject": 25,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 5. TRANSPORTUL DE PERSOANE ȘI TRANSPORTAREA ÎNCĂRCĂTURILOR.\\nA. Transportul de persoane.",
+    "code_subject": "5 A",
+    "order_subject": 25,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 5. ПЕРЕВОЗКА ПАССАЖИРОВ И ГРУЗОВ.\\nА. Перевозка пассажиров.",
+    "code_subject": "5 A",
+    "order_subject": 25,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "en",
+    "name": "B. Transportation of goods.",
+    "code_subject": "5 B",
+    "order_subject": 26,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "ro",
+    "name": "B. Transportarea încărcăturilor.",
+    "code_subject": "5 B",
+    "order_subject": 26,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "ru",
+    "name": "В. Перевозка грузов.",
+    "code_subject": "5 B",
+    "order_subject": 26,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "en",
+    "name": "THEME 6.1. TRAFFIC OF BICYCLES, SCOOTERS, ELECTRIC BICYCLES AND ELECTRIC SCOOTERS.",
+    "code_subject": "6.1",
+    "order_subject": 27,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 12
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 6.1. CIRCULAȚIA BICICLETELOR, TROTINETELOR, BICICLETELOR ȘI TROTINETELOR ELECTRICE.\r\n",
+    "code_subject": "6.1",
+    "order_subject": 27,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 12
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 6.1. ДВИЖЕНИЕ ВЕЛОСИПЕДОВ, САМОКАТОВ, ЭЛЕКТРОВЕЛОСИПЕДОВ И ЭЛЕКТРОСАМОКАТОВ.",
+    "code_subject": "6.1",
+    "order_subject": 27,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 12
+  },
+  {
+    "language": "en",
+    "name": "",
+    "code_subject": "6.2",
+    "order_subject": 28,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 6.2. CIRCULAŢIA PIETONILOR Şl A COLOANELOR.",
+    "code_subject": "6.2",
+    "order_subject": 28,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 6.2. ДВИЖЕНИЕ ПЕШЕХОДОВ И КОЛОНН.",
+    "code_subject": "6.2",
+    "order_subject": 28,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 6
+  },
+  {
+    "language": "en",
+    "name": "THEME 7. TECHNICAL CONDITIONS FOR ACCESS TO ROAD TRAFFIC OF MECHANICAL VEHICLES AND TRAILERS. IDENTIFICATION SIGNS OF VEHICLES. \\nA. Specifications for the admission to traffic of motor vehicles and trailers.",
+    "code_subject": "7 A",
+    "order_subject": 29,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 32
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 7. CONDIŢII TEHNICE PENTRU ADMITEREA ÎN CIRCULAŢIE A AUTOVEHICULELOR ȘI REMORCILOR. MIJLOACE DE IDENTIFICARE A UNOR VEHICULE. SEMNE DISTINCTIVE.\\nA. Condiţii tehnice pentru admiterea în circulaţie a autovehiculelor şi remorcilor.",
+    "code_subject": "7 A",
+    "order_subject": 29,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 32
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 7. ТЕХНИЧЕСКИЕ УСЛОВИЯ ДЛЯ ДОПУСКА К ДОРОЖНОМУ ДВИЖЕНИЮ МЕХАНИЧЕСКИХ ТРАНСПОРТНЫХ СРЕДСТВ И ПРИЦЕПОВ. ОПОЗНАВАТЕЛЬНЫЕ ЗНАКИ ТРАНСПОРТНЫХ CРЕДСТВ. \\nА. Технические условия для допуска к дорожному движению механических транспортных средств и прицепов.",
+    "code_subject": "7 A",
+    "order_subject": 29,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 32
+  },
+  {
+    "language": "en",
+    "name": "B. Identification marks of vehicles.",
+    "code_subject": "7 B",
+    "order_subject": 30,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 18
+  },
+  {
+    "language": "ro",
+    "name": "B. Mijloace de identificare a unor vehicule. Semne distinctive.",
+    "code_subject": "7 B",
+    "order_subject": 30,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 18
+  },
+  {
+    "language": "ru",
+    "name": "В. Опознавательные знаки транспортных средств.",
+    "code_subject": "7 B",
+    "order_subject": 30,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 18
+  },
+  {
+    "language": "en",
+    "name": "THEME 8.1. BASES OF CORRECT ACTION WHEN MANAGING A VEHICLE AND ROAD SAFETY.",
+    "code_subject": "8.1",
+    "order_subject": 31,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 108
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 8.1. BAZELE COMPORTAMENTULUI ÎN CONDUCEREA AUTOVEHICULULUI Şl SIGURANŢA TRAFICULUI RUTIER.",
+    "code_subject": "8.1",
+    "order_subject": 31,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 108
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 8.1. ОСНОВЫ ПРАВИЛЬНЫХ ДЕЙСТВИЙ ПРИ УПРАВЛЕНИИ ТРАНСПОРТНЫМ СРЕДСТВОМ И БЕЗОПАСНОСТЬ ДОРОЖНОГО ДВИЖЕНИЯ.",
+    "code_subject": "8.1",
+    "order_subject": 31,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 108
+  },
+  {
+    "language": "en",
+    "name": "THEME 8.2. FIRE SAFETY",
+    "code_subject": "8.2",
+    "order_subject": 32,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 10
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 8.2. SECURITATEA ANTIINCENDIARĂ",
+    "code_subject": "8.2",
+    "order_subject": 32,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 10
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 8.2. ПОЖАРНАЯ БЕЗОПАСНОСТЬ",
+    "code_subject": "8.2",
+    "order_subject": 32,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 10
+  },
+  {
+    "language": "en",
+    "name": "",
+    "code_subject": "8.3",
+    "order_subject": 33,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 19
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 8.3. SIGURANȚA ECOLOGICĂ A VEHICULULUI ȘI CONDUCEREA ECOLOGICĂ.",
+    "code_subject": "8.3",
+    "order_subject": 33,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 19
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 8.3. ЭКОЛОГИЧЕСКАЯ БЕЗОПАСНОСТЬ АВТОМОБИЛЯ И ЭКОЛОГИЧНОЕ ВОЖДЕНИЕ.",
+    "code_subject": "8.3",
+    "order_subject": 33,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 19
+  },
+  {
+    "language": "en",
+    "name": "THEME 9. FIRST AID PROVISION.",
+    "code_subject": "9",
+    "order_subject": 34,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 25
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 9. ACORDAREA PRIMULUI AJUTOR.",
+    "code_subject": "9",
+    "order_subject": 34,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 25
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 9. ОКАЗАНИЕ ПЕРВОЙ ПОМОЩИ.",
+    "code_subject": "9",
+    "order_subject": 34,
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "number_questions": 25
+  },
+  {
+    "language": "en",
+    "name": "THEME 1.1. GENERAL PROVISIONS. BASIC CONCEPTS AND TERMS.",
+    "code_subject": "1.1",
+    "order_subject": 1,
+    "code_content": "TASK_C1_C",
+    "number_questions": 4
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 1.1. DISPOZIŢII GENERALE. NOŢIUNI ŞI TERMENI DE BAZĂ.",
+    "code_subject": "1.1",
+    "order_subject": 1,
+    "code_content": "TASK_C1_C",
+    "number_questions": 4
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 1.1. ОБЩИЕ ПОЛОЖЕНИЯ. ОСНОВНЫЕ ПОНЯТИЯ И ТЕРМИНЫ.",
+    "code_subject": "1.1",
+    "order_subject": 1,
+    "code_content": "TASK_C1_C",
+    "number_questions": 4
+  },
+  {
+    "language": "en",
+    "name": "THEME 1.2. RESPONSIBILITIES OF VEHICLE DRIVERS. PROHIBITED BY THEM AND THEIR RIGHTS.",
+    "code_subject": "1.2",
+    "order_subject": 2,
+    "code_content": "TASK_C1_C",
+    "number_questions": 2
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 1.2. DREPTURILE, OBLIGAŢIILE ŞI RESTRICŢIILE PENTRU CONDUCĂTORII DE VEHICULE.",
+    "code_subject": "1.2",
+    "order_subject": 2,
+    "code_content": "TASK_C1_C",
+    "number_questions": 2
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 1.2. ОБЯЗАННОСТИ ВОДИТЕЛЕЙ ТРАНСПОРТНЫХ СРЕДСТВ. НАЛАГАЕМЫЕ НА НИХ ЗАПРЕЩЕНИЯМ И ИХ ПРАВА.",
+    "code_subject": "1.2",
+    "order_subject": 2,
+    "code_content": "TASK_C1_C",
+    "number_questions": 2
+  },
+  {
+    "language": "en",
+    "name": "THEME 2.1. GENERAL PROVISIONS.\\nTHEME 2.2. ROAD SIGNS.\\nА. General Provisions. Significance of road signs.",
+    "code_subject": "2.1-2.2 A",
+    "order_subject": 3,
+    "code_content": "TASK_C1_C",
+    "number_questions": 16
+  },
+  {
+    "language": "ro",
+    "name": "ТEMA 2.1 DISPOZIŢII GENERALE.\\nТEMA 2.2. INDICATOARELE RUTIERE.\\nA. Dispoziţii generale. Semnificaţia indicatoarelor rutiere.",
+    "code_subject": "2.1-2.2 A",
+    "order_subject": 3,
+    "code_content": "TASK_C1_C",
+    "number_questions": 16
+  },
+  {
+    "language": "ru",
+    "name": "ТEMA 2.1. ОБЩИЕ ПОЛОЖЕНИЯ.\\nТEMA 2.2. ДОРОЖНЫЕ ЗНАКИ.\\nА. Общие положения. Значение дорожных знаков.",
+    "code_subject": "2.1-2.2 A",
+    "order_subject": 3,
+    "code_content": "TASK_C1_C",
+    "number_questions": 16
+  },
+  {
+    "language": "en",
+    "name": "B. Use of road signs.",
+    "code_subject": "2.1-2.2 B",
+    "order_subject": 4,
+    "code_content": "TASK_C1_C",
+    "number_questions": 6
+  },
+  {
+    "language": "ro",
+    "name": "B. Utilizarea indicatoarelor rutiere.",
+    "code_subject": "2.1-2.2 B",
+    "order_subject": 4,
+    "code_content": "TASK_C1_C",
+    "number_questions": 6
+  },
+  {
+    "language": "ru",
+    "name": "В. Применение дорожных знаков.",
+    "code_subject": "2.1-2.2 B",
+    "order_subject": 4,
+    "code_content": "TASK_C1_C",
+    "number_questions": 6
+  },
+  {
+    "language": "en",
+    "name": "THEME 3. SIGNALS OF DRIVERS OF VEHICLES. USE OF EXTERNAL LIGHT INSTRUMENTS AND INSTRUMENTS OF LIGHT AND SOUND SIGNALING.",
+    "code_subject": "3",
+    "order_subject": 5,
+    "code_content": "TASK_C1_C",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 3. SEMNALELE CONDUCĂTORILOR DE VEHICULE. FOLOSIREA DISPOZITIVELOR DE ILUMINARE EXTERIOARA ȘI A DISPOZITIVELOR DE SEMNALIZARE LUMINOASĂ ŞI SONORA.",
+    "code_subject": "3",
+    "order_subject": 5,
+    "code_content": "TASK_C1_C",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 3. СИГНАЛЫ ВОДИТЕЛЕЙ ТРАНСПОРТНЫХ СРЕДСТВ. ПОЛЬЗОВАНИЕ ВНЕШНИМИ СВЕТОВЫМИ ПРИБОРАМИ И ПРИБОРАМИ СВЕТОВОЙ И ЗВУКОВОЙ СИГНАЛИЗАЦИИ.",
+    "code_subject": "3",
+    "order_subject": 5,
+    "code_content": "TASK_C1_C",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.2. LOCATION OF VEHICLES ON THE ROAD.",
+    "code_subject": "4.2",
+    "order_subject": 6,
+    "code_content": "TASK_C1_C",
+    "number_questions": 4
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.2. POZIŢIA VEHICULELOR PE CAROSABIL.",
+    "code_subject": "4.2",
+    "order_subject": 6,
+    "code_content": "TASK_C1_C",
+    "number_questions": 4
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.2. РАСПОЛОЖЕНИЕ ТРАНСПОРТНЫХ СРЕДСТВ НА ПРОЕЗЖЕЙ ЧАСТИ.",
+    "code_subject": "4.2",
+    "order_subject": 6,
+    "code_content": "TASK_C1_C",
+    "number_questions": 4
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.3. MOVEMENT SPEED AND DISTANCE BETWEEN VEHICLES.",
+    "code_subject": "4.3",
+    "order_subject": 7,
+    "code_content": "TASK_C1_C",
+    "number_questions": 3
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.3. VITEZA DE DEPLASARE ŞI SPAŢIUL ÎNTRE VEHICULE.",
+    "code_subject": "4.3",
+    "order_subject": 7,
+    "code_content": "TASK_C1_C",
+    "number_questions": 3
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.3. СКОРОСТЬ ДВИЖЕНИЯ И ДИСТАНЦИЯ МЕЖДУ ТРАНСПОРТНЫМИ СРЕДСТВАМИ.",
+    "code_subject": "4.3",
+    "order_subject": 7,
+    "code_content": "TASK_C1_C",
+    "number_questions": 3
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.4. OVERTAKING AND MEETING.",
+    "code_subject": "4.4",
+    "order_subject": 8,
+    "code_content": "TASK_C1_C",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.4. DEPĂŞIREA ŞI TRECEREA ÎN SENSURI OPUSE.",
+    "code_subject": "4.4",
+    "order_subject": 8,
+    "code_content": "TASK_C1_C",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.4. ОБГОН И ВСТРЕЧНЫЙ РАЗЪЕЗД.",
+    "code_subject": "4.4",
+    "order_subject": 8,
+    "code_content": "TASK_C1_C",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.5. CROSSROADS AND TRAFFIC THROUGH RAILWAYS. \\ nE. Traffic through railways.",
+    "code_subject": "4.5 E",
+    "order_subject": 9,
+    "code_content": "TASK_C1_C",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.5. CIRCULAŢIA ÎN INTERSECŢII ȘI TRAVERSAREA CĂILOR FERATE. \\nE. Traversarea căilor ferate.",
+    "code_subject": "4.5 E",
+    "order_subject": 9,
+    "code_content": "TASK_C1_C",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.5. ПРОЕЗД ПЕРЕКРЁСТКОВ И ДВИЖЕНИЕ ЧЕРЕЗ ЖЕЛЕЗНОДОРОЖНЫЕ ПУТИ. \\nЕ. Движение через железнодорожные пути.",
+    "code_subject": "4.5 E",
+    "order_subject": 9,
+    "code_content": "TASK_C1_C",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.6. STOP AND PARKING. PARKING.",
+    "code_subject": "4.6",
+    "order_subject": 10,
+    "code_content": "TASK_C1_C",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 4.6. OPRIREA Şl STAŢIONAREA VOLUNTARĂ. PARCAREA.",
+    "code_subject": "4.6",
+    "order_subject": 10,
+    "code_content": "TASK_C1_C",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 4.6. ОСТАНОВКА И СТОЯНКА. ПАРКОВКА.",
+    "code_subject": "4.6",
+    "order_subject": 10,
+    "code_content": "TASK_C1_C",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.8. MOVEMENT IN RESIDENTIAL AND PEDESTRIAN ZONES. TRAFFIC ON THE HIGHWAYS. \\nB. Traffic on motorways.",
+    "code_subject": "4.8 B",
+    "order_subject": 11,
+    "code_content": "TASK_C1_C",
+    "number_questions": 3
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 4.8. CIRCULAŢIA PRIN ZONELE REZIDENŢIALE ȘI PIETONALE. CIRCULATE PE AUTOSTRĂZI.\\nB. Circulaţie pe autostrăzi.",
+    "code_subject": "4.8 B",
+    "order_subject": 11,
+    "code_content": "TASK_C1_C",
+    "number_questions": 3
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 4.8. ДВИЖЕНИЕ В ЖИЛЫХ И ПЕШЕХОДНЫХ ЗОНАХ. ДВИЖЕНИЕ НА АВТОМАГИСТРАЛЯХ.\\nВ. Движение на автомагистралях.",
+    "code_subject": "4.8 B",
+    "order_subject": 11,
+    "code_content": "TASK_C1_C",
+    "number_questions": 3
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.9. PARTICIPATION OF VEHICLES IN INTERNATIONAL TRAFFIC. DRIVING TRAINING VEHICLES. \\nB. Training in driving vehicles.",
+    "code_subject": "4.9 B",
+    "order_subject": 12,
+    "code_content": "TASK_C1_C",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "ТEMA 4.9. CIRCULAŢIA AUTOVEHICULELOR ÎN TRAFICUL INTERNAŢIONAL. INSTRUIREA ÎN CONDUCEREA AUTOVEHICULELOR.\\nB. Instruirea în conducerea autovehiculelor.",
+    "code_subject": "4.9 B",
+    "order_subject": 12,
+    "code_content": "TASK_C1_C",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "ТEMA 4.9. УЧАСТИЕ ТРАНСПОРТНЫХ СРЕДСТВ В МЕЖДУНАРОДНОМ ДВИЖЕНИИ. ОБУЧЕНИЕ ВОЖДЕНИЮ ТРАНСПОРТНЫХ СРЕДСТВ.\\nВ. Обучение вождению транспортных средств.",
+    "code_subject": "4.9 B",
+    "order_subject": 12,
+    "code_content": "TASK_C1_C",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 5. TRANSPORTATION OF PASSENGERS AND CARGO. \\nA. Carriage of passengers.",
+    "code_subject": "5 A",
+    "order_subject": 13,
+    "code_content": "TASK_C1_C",
+    "number_questions": 5
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 5. TRANSPORTUL DE PERSOANE ȘI TRANSPORTAREA ÎNCĂRCĂTURILOR.\\nA. Transportul de persoane.",
+    "code_subject": "5 A",
+    "order_subject": 13,
+    "code_content": "TASK_C1_C",
+    "number_questions": 5
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 5. ПЕРЕВОЗКА ПАССАЖИРОВ И ГРУЗОВ.\\nА. Перевозка пассажиров.",
+    "code_subject": "5 A",
+    "order_subject": 13,
+    "code_content": "TASK_C1_C",
+    "number_questions": 5
+  },
+  {
+    "language": "en",
+    "name": "THEME 5. TRANSPORTATION OF PASSENGERS AND CARGO. \\nB. Transportation of goods.",
+    "code_subject": "5 B",
+    "order_subject": 14,
+    "code_content": "TASK_C1_C",
+    "number_questions": 8
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 5. TRANSPORTUL DE PERSOANE ȘI TRANSPORTAREA ÎNCĂRCĂTURILOR.\\nB. Transportarea încărcăturilor.",
+    "code_subject": "5 B",
+    "order_subject": 14,
+    "code_content": "TASK_C1_C",
+    "number_questions": 8
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 5. ПЕРЕВОЗКА ПАССАЖИРОВ И ГРУЗОВ.\\nВ. Перевозка грузов.",
+    "code_subject": "5 B",
+    "order_subject": 14,
+    "code_content": "TASK_C1_C",
+    "number_questions": 8
+  },
+  {
+    "language": "en",
+    "name": "THEME 7. TECHNICAL CONDITIONS FOR ACCESS TO ROAD TRAFFIC OF MECHANICAL VEHICLES AND TRAILERS. IDENTIFICATION SIGNS OF VEHICLES. \\nA. Specifications for the admission to traffic of motor vehicles and trailers.",
+    "code_subject": "7 A",
+    "order_subject": 15,
+    "code_content": "TASK_C1_C",
+    "number_questions": 7
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 7. CONDIŢII TEHNICE PENTRU ADMITEREA ÎN CIRCULAŢIE A AUTOVEHICULELOR ȘI REMORCILOR. MIJLOACE DE IDENTIFICARE A UNOR VEHICULE. SEMNE DISTINCTIVE.\\nA. Condiţii tehnice pentru admiterea în circulaţie a autovehiculelor şi remorcilor.",
+    "code_subject": "7 A",
+    "order_subject": 15,
+    "code_content": "TASK_C1_C",
+    "number_questions": 7
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 7. ТЕХНИЧЕСКИЕ УСЛОВИЯ ДЛЯ ДОПУСКА К ДОРОЖНОМУ ДВИЖЕНИЮ МЕХАНИЧЕСКИХ ТРАНСПОРТНЫХ СРЕДСТВ И ПРИЦЕПОВ. ОПОЗНАВАТЕЛЬНЫЕ ЗНАКИ ТРАНСПОРТНЫХ CРЕДСТВ. \\nА. Технические условия для допуска к дорожному движению механических транспортных средств и прицепов.",
+    "code_subject": "7 A",
+    "order_subject": 15,
+    "code_content": "TASK_C1_C",
+    "number_questions": 7
+  },
+  {
+    "language": "en",
+    "name": "MANAGEMENT OF MECHANICAL VEHICLES. CORRECT ACTIONS AND SAFETY.",
+    "code_subject": "8",
+    "order_subject": 16,
+    "code_content": "TASK_C1_C",
+    "number_questions": 24
+  },
+  {
+    "language": "ro",
+    "name": "CONDUCEREA AUTOVEHICULULUI. COMPORTAMENT ȘI SEGURANȚĂ.",
+    "code_subject": "8",
+    "order_subject": 16,
+    "code_content": "TASK_C1_C",
+    "number_questions": 24
+  },
+  {
+    "language": "ru",
+    "name": "УПРАВЛЕНИЕ МЕХАНИЧЕСКИМ ТРАНСПОРТНЫМ СРЕДСТВОМ. ПРАВИЛЬНЫЕ ДЕЙСТВИЯ И БЕЗОПАСНОСТЬ.",
+    "code_subject": "8",
+    "order_subject": 16,
+    "code_content": "TASK_C1_C",
+    "number_questions": 24
+  },
+  {
+    "language": "en",
+    "name": "REGULATORY DOCUMENTS REGARDING ROAD TRAFFIC.",
+    "code_subject": "Regulations",
+    "order_subject": 17,
+    "code_content": "TASK_C1_C",
+    "number_questions": 3
+  },
+  {
+    "language": "ro",
+    "name": "ACTELE NORMATIVE PRIVIND TRAFICUL RUTIER.",
+    "code_subject": "Regulations",
+    "order_subject": 17,
+    "code_content": "TASK_C1_C",
+    "number_questions": 3
+  },
+  {
+    "language": "ru",
+    "name": "НОРМАТИВНЫЕ ДОКУМЕНТЫ ОТНОСИТЕЛЬНО ДОРОЖНОГО ДВИЖЕНИЯ.",
+    "code_subject": "Regulations",
+    "order_subject": 17,
+    "code_content": "TASK_C1_C",
+    "number_questions": 3
+  },
+  {
+    "language": "en",
+    "name": "THEME 1.1. GENERAL PROVISIONS. BASIC CONCEPTS AND TERMS.",
+    "code_subject": "1.1",
+    "order_subject": 1,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 1.1. DISPOZIŢII GENERALE. NOŢIUNI ŞI TERMENI DE BAZĂ.",
+    "code_subject": "1.1",
+    "order_subject": 1,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 1.1. ОБЩИЕ ПОЛОЖЕНИЯ. ОСНОВНЫЕ ПОНЯТИЯ И ТЕРМИНЫ.",
+    "code_subject": "1.1",
+    "order_subject": 1,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 1.2. RESPONSIBILITIES OF VEHICLE DRIVERS. PROHIBITED BY THEM AND THEIR RIGHTS.",
+    "code_subject": "1.2",
+    "order_subject": 2,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 1.2. DREPTURILE, OBLIGAŢIILE ŞI RESTRICŢIILE PENTRU CONDUCĂTORII DE VEHICULE.",
+    "code_subject": "1.2",
+    "order_subject": 2,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 1.2. ОБЯЗАННОСТИ ВОДИТЕЛЕЙ ТРАНСПОРТНЫХ СРЕДСТВ. НАЛАГАЕМЫЕ НА НИХ ЗАПРЕЩЕНИЯМ И ИХ ПРАВА.",
+    "code_subject": "1.2",
+    "order_subject": 2,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 2.1. GENERAL PROVISIONS.\\nTHEME 2.2. ROAD SIGNS.\\nА. General Provisions. Significance of road signs.",
+    "code_subject": "2.1-2.2 A",
+    "order_subject": 3,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "ТEMA 2.1 DISPOZIŢII GENERALE.\\nТEMA 2.2. INDICATOARELE RUTIERE.\\nA. Dispoziţii generale. Semnificaţia indicatoarelor rutiere.",
+    "code_subject": "2.1-2.2 A",
+    "order_subject": 3,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "ТEMA 2.1. ОБЩИЕ ПОЛОЖЕНИЯ.\\nТEMA 2.2. ДОРОЖНЫЕ ЗНАКИ.\\nА. Общие положения. Значение дорожных знаков.",
+    "code_subject": "2.1-2.2 A",
+    "order_subject": 3,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "B. Use of road signs.",
+    "code_subject": "2.1-2.2 B",
+    "order_subject": 4,
+    "code_content": "TASK_D1_D",
+    "number_questions": 2
+  },
+  {
+    "language": "ro",
+    "name": "B. Utilizarea indicatoarelor rutiere.",
+    "code_subject": "2.1-2.2 B",
+    "order_subject": 4,
+    "code_content": "TASK_D1_D",
+    "number_questions": 2
+  },
+  {
+    "language": "ru",
+    "name": "В. Применение дорожных знаков.",
+    "code_subject": "2.1-2.2 B",
+    "order_subject": 4,
+    "code_content": "TASK_D1_D",
+    "number_questions": 2
+  },
+  {
+    "language": "en",
+    "name": "THEME 2.5. SIGNALS OF TRAFFIC LIGHTD. \\nTHEME 2.6. ALARM ON RAILWAYS.",
+    "code_subject": "2.5-2.6",
+    "order_subject": 5,
+    "code_content": "TASK_D1_D",
+    "number_questions": 5
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 2.5. SEMNALELE LUMINOASE. \\nTEMA 2.6. SEMNALIZAREA TRECERILOR LA NIVEL CU CALEA FERATĂ.",
+    "code_subject": "2.5-2.6",
+    "order_subject": 5,
+    "code_content": "TASK_D1_D",
+    "number_questions": 5
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 2.5. СИГНАЛЫ СВЕТОФОРОВ. \\nTEMA 2.6. СИГНАЛИЗАЦИЯ НА ЖЕЛЕЗНОДОРОЖНЫХ ПЕРЕЕЗДАХ.",
+    "code_subject": "2.5-2.6",
+    "order_subject": 5,
+    "code_content": "TASK_D1_D",
+    "number_questions": 5
+  },
+  {
+    "language": "en",
+    "name": "THEME 3. SIGNALS OF DRIVERS OF VEHICLES. USE OF EXTERNAL LIGHT INSTRUMENTS AND INSTRUMENTS OF LIGHT AND SOUND SIGNALING.",
+    "code_subject": "3",
+    "order_subject": 6,
+    "code_content": "TASK_D1_D",
+    "number_questions": 4
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 3. SEMNALELE CONDUCĂTORILOR DE VEHICULE. FOLOSIREA DISPOZITIVELOR DE ILUMINARE EXTERIOARA ȘI A DISPOZITIVELOR DE SEMNALIZARE LUMINOASĂ ŞI SONORA.",
+    "code_subject": "3",
+    "order_subject": 6,
+    "code_content": "TASK_D1_D",
+    "number_questions": 4
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 3. СИГНАЛЫ ВОДИТЕЛЕЙ ТРАНСПОРТНЫХ СРЕДСТВ. ПОЛЬЗОВАНИЕ ВНЕШНИМИ СВЕТОВЫМИ ПРИБОРАМИ И ПРИБОРАМИ СВЕТОВОЙ И ЗВУКОВОЙ СИГНАЛИЗАЦИИ.",
+    "code_subject": "3",
+    "order_subject": 6,
+    "code_content": "TASK_D1_D",
+    "number_questions": 4
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.1. STARTING MOVEMENT AND CHANGE OF MOTION DIRECTION.",
+    "code_subject": "4.1",
+    "order_subject": 7,
+    "code_content": "TASK_D1_D",
+    "number_questions": 2
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.1. ÎNCEPUTUL DEPLASĂRII ȘI SCHIMBAREA DIRECŢIEI DE MERS.",
+    "code_subject": "4.1",
+    "order_subject": 7,
+    "code_content": "TASK_D1_D",
+    "number_questions": 2
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.1. НАЧАЛО ДВИЖЕНИЯ И ИЗМЕНЕНИЕ НАПРАВЛЕНИЯ ДВИЖЕНИЯ.",
+    "code_subject": "4.1",
+    "order_subject": 7,
+    "code_content": "TASK_D1_D",
+    "number_questions": 2
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.2. LOCATION OF VEHICLES ON THE ROAD.",
+    "code_subject": "4.2",
+    "order_subject": 8,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.2. POZIŢIA VEHICULELOR PE CAROSABIL.",
+    "code_subject": "4.2",
+    "order_subject": 8,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.2. РАСПОЛОЖЕНИЕ ТРАНСПОРТНЫХ СРЕДСТВ НА ПРОЕЗЖЕЙ ЧАСТИ.",
+    "code_subject": "4.2",
+    "order_subject": 8,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.3. MOVEMENT SPEED AND DISTANCE BETWEEN VEHICLES.",
+    "code_subject": "4.3",
+    "order_subject": 9,
+    "code_content": "TASK_D1_D",
+    "number_questions": 4
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.3. VITEZA DE DEPLASARE ŞI SPAŢIUL ÎNTRE VEHICULE.",
+    "code_subject": "4.3",
+    "order_subject": 9,
+    "code_content": "TASK_D1_D",
+    "number_questions": 4
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.3. СКОРОСТЬ ДВИЖЕНИЯ И ДИСТАНЦИЯ МЕЖДУ ТРАНСПОРТНЫМИ СРЕДСТВАМИ.",
+    "code_subject": "4.3",
+    "order_subject": 9,
+    "code_content": "TASK_D1_D",
+    "number_questions": 4
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.5. CROSSROADS AND TRAFFIC THROUGH RAILWAYS. \\ nE. Traffic through railways.",
+    "code_subject": "4.5 E",
+    "order_subject": 10,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.5. CIRCULAŢIA ÎN INTERSECŢII ȘI TRAVERSAREA CĂILOR FERATE. \\nE. Traversarea căilor ferate.",
+    "code_subject": "4.5 E",
+    "order_subject": 10,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.5. ПРОЕЗД ПЕРЕКРЁСТКОВ И ДВИЖЕНИЕ ЧЕРЕЗ ЖЕЛЕЗНОДОРОЖНЫЕ ПУТИ. \\nЕ. Движение через железнодорожные пути.",
+    "code_subject": "4.5 E",
+    "order_subject": 10,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.6. STOP AND PARKING. PARKING.",
+    "code_subject": "4.6",
+    "order_subject": 11,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 4.6. OPRIREA Şl STAŢIONAREA VOLUNTARĂ. PARCAREA.",
+    "code_subject": "4.6",
+    "order_subject": 11,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 4.6. ОСТАНОВКА И СТОЯНКА. ПАРКОВКА.",
+    "code_subject": "4.6",
+    "order_subject": 11,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.7. TOWING DAMAGED MECHANICAL VEHICLES AND TRAILERS.",
+    "code_subject": "4.7",
+    "order_subject": 12,
+    "code_content": "TASK_D1_D",
+    "number_questions": 3
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 4.7. REMORCAREA AUTOVEHICULELOR RÂMASE ÎN PANĂ ȘI TRACTAREA REMORCILOR.",
+    "code_subject": "4.7",
+    "order_subject": 12,
+    "code_content": "TASK_D1_D",
+    "number_questions": 3
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 4.7. БУКСИРОВКА НЕИСПРАВНЫХ МЕХАНИЧЕСКИХ ТРАНСПОРТНЫХ СРЕДСТВ И ПРИЦЕПОВ.",
+    "code_subject": "4.7",
+    "order_subject": 12,
+    "code_content": "TASK_D1_D",
+    "number_questions": 3
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.9. PARTICIPATION OF VEHICLES IN INTERNATIONAL TRAFFIC. DRIVING TRAINING VEHICLES. \\nB. Training in driving vehicles.",
+    "code_subject": "4.9 B",
+    "order_subject": 13,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "ТEMA 4.9. CIRCULAŢIA AUTOVEHICULELOR ÎN TRAFICUL INTERNAŢIONAL. INSTRUIREA ÎN CONDUCEREA AUTOVEHICULELOR.\\nB. Instruirea în conducerea autovehiculelor.",
+    "code_subject": "4.9 B",
+    "order_subject": 13,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "ТEMA 4.9. УЧАСТИЕ ТРАНСПОРТНЫХ СРЕДСТВ В МЕЖДУНАРОДНОМ ДВИЖЕНИИ. ОБУЧЕНИЕ ВОЖДЕНИЮ ТРАНСПОРТНЫХ СРЕДСТВ.\\nВ. Обучение вождению транспортных средств.",
+    "code_subject": "4.9 B",
+    "order_subject": 13,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 5. TRANSPORTATION OF PASSENGERS AND CARGO. \\nA. Carriage of passengers.",
+    "code_subject": "5 A",
+    "order_subject": 14,
+    "code_content": "TASK_D1_D",
+    "number_questions": 4
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 5. TRANSPORTUL DE PERSOANE ȘI TRANSPORTAREA ÎNCĂRCĂTURILOR.\\nA. Transportul de persoane.",
+    "code_subject": "5 A",
+    "order_subject": 14,
+    "code_content": "TASK_D1_D",
+    "number_questions": 4
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 5. ПЕРЕВОЗКА ПАССАЖИРОВ И ГРУЗОВ.\\nА. Перевозка пассажиров.",
+    "code_subject": "5 A",
+    "order_subject": 14,
+    "code_content": "TASK_D1_D",
+    "number_questions": 4
+  },
+  {
+    "language": "en",
+    "name": "THEME 5. TRANSPORTATION OF PASSENGERS AND CARGO. \\nB. Transportation of goods.",
+    "code_subject": "5 B",
+    "order_subject": 15,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 5. TRANSPORTUL DE PERSOANE ȘI TRANSPORTAREA ÎNCĂRCĂTURILOR.\\nB. Transportarea încărcăturilor.",
+    "code_subject": "5 B",
+    "order_subject": 15,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 5. ПЕРЕВОЗКА ПАССАЖИРОВ И ГРУЗОВ.\\nВ. Перевозка грузов.",
+    "code_subject": "5 B",
+    "order_subject": 15,
+    "code_content": "TASK_D1_D",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 7. TECHNICAL CONDITIONS FOR ACCESS TO ROAD TRAFFIC OF MECHANICAL VEHICLES AND TRAILERS. IDENTIFICATION SIGNS OF VEHICLES. \\nA. Specifications for the admission to traffic of motor vehicles and trailers.",
+    "code_subject": "7 A",
+    "order_subject": 16,
+    "code_content": "TASK_D1_D",
+    "number_questions": 7
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 7. CONDIŢII TEHNICE PENTRU ADMITEREA ÎN CIRCULAŢIE A AUTOVEHICULELOR ȘI REMORCILOR. MIJLOACE DE IDENTIFICARE A UNOR VEHICULE. SEMNE DISTINCTIVE.\\nA. Condiţii tehnice pentru admiterea în circulaţie a autovehiculelor şi remorcilor.",
+    "code_subject": "7 A",
+    "order_subject": 16,
+    "code_content": "TASK_D1_D",
+    "number_questions": 7
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 7. ТЕХНИЧЕСКИЕ УСЛОВИЯ ДЛЯ ДОПУСКА К ДОРОЖНОМУ ДВИЖЕНИЮ МЕХАНИЧЕСКИХ ТРАНСПОРТНЫХ СРЕДСТВ И ПРИЦЕПОВ. ОПОЗНАВАТЕЛЬНЫЕ ЗНАКИ ТРАНСПОРТНЫХ CРЕДСТВ. \\nА. Технические условия для допуска к дорожному движению механических транспортных средств и прицепов.",
+    "code_subject": "7 A",
+    "order_subject": 16,
+    "code_content": "TASK_D1_D",
+    "number_questions": 7
+  },
+  {
+    "language": "en",
+    "name": "MANAGEMENT OF MECHANICAL VEHICLES. CORRECT ACTIONS AND SAFETY.",
+    "code_subject": "8",
+    "order_subject": 17,
+    "code_content": "TASK_D1_D",
+    "number_questions": 16
+  },
+  {
+    "language": "ro",
+    "name": "CONDUCEREA AUTOVEHICULULUI. COMPORTAMENT ȘI SEGURANȚĂ.",
+    "code_subject": "8",
+    "order_subject": 17,
+    "code_content": "TASK_D1_D",
+    "number_questions": 16
+  },
+  {
+    "language": "ru",
+    "name": "УПРАВЛЕНИЕ МЕХАНИЧЕСКИМ ТРАНСПОРТНЫМ СРЕДСТВОМ. ПРАВИЛЬНЫЕ ДЕЙСТВИЯ И БЕЗОПАСНОСТЬ.",
+    "code_subject": "8",
+    "order_subject": 17,
+    "code_content": "TASK_D1_D",
+    "number_questions": 16
+  },
+  {
+    "language": "en",
+    "name": "REGULATORY DOCUMENTS REGARDING ROAD TRAFFIC.",
+    "code_subject": "Regulations",
+    "order_subject": 18,
+    "code_content": "TASK_D1_D",
+    "number_questions": 5
+  },
+  {
+    "language": "ro",
+    "name": "ACTELE NORMATIVE PRIVIND TRAFICUL RUTIER.",
+    "code_subject": "Regulations",
+    "order_subject": 18,
+    "code_content": "TASK_D1_D",
+    "number_questions": 5
+  },
+  {
+    "language": "ru",
+    "name": "НОРМАТИВНЫЕ ДОКУМЕНТЫ ОТНОСИТЕЛЬНО ДОРОЖНОГО ДВИЖЕНИЯ.",
+    "code_subject": "Regulations",
+    "order_subject": 18,
+    "code_content": "TASK_D1_D",
+    "number_questions": 5
+  },
+  {
+    "language": "en",
+    "name": "THEME 1.1. GENERAL PROVISIONS. BASIC CONCEPTS AND TERMS.",
+    "code_subject": "1.1",
+    "order_subject": 1,
+    "code_content": "TASK_E",
+    "number_questions": 3
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 1.1. DISPOZIŢII GENERALE. NOŢIUNI ŞI TERMENI DE BAZĂ.",
+    "code_subject": "1.1",
+    "order_subject": 1,
+    "code_content": "TASK_E",
+    "number_questions": 3
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 1.1. ОБЩИЕ ПОЛОЖЕНИЯ. ОСНОВНЫЕ ПОНЯТИЯ И ТЕРМИНЫ.",
+    "code_subject": "1.1",
+    "order_subject": 1,
+    "code_content": "TASK_E",
+    "number_questions": 3
+  },
+  {
+    "language": "en",
+    "name": "THEME 2.1. GENERAL PROVISIONS.\\nTHEME 2.2. ROAD SIGNS.\\nА. General Provisions. Significance of road signs.",
+    "code_subject": "2.1-2.2 A",
+    "order_subject": 2,
+    "code_content": "TASK_E",
+    "number_questions": 3
+  },
+  {
+    "language": "ro",
+    "name": "ТEMA 2.1 DISPOZIŢII GENERALE.\\nТEMA 2.2. INDICATOARELE RUTIERE.\\nA. Dispoziţii generale. Semnificaţia indicatoarelor rutiere.",
+    "code_subject": "2.1-2.2 A",
+    "order_subject": 2,
+    "code_content": "TASK_E",
+    "number_questions": 3
+  },
+  {
+    "language": "ru",
+    "name": "ТEMA 2.1. ОБЩИЕ ПОЛОЖЕНИЯ.\\nТEMA 2.2. ДОРОЖНЫЕ ЗНАКИ.\\nА. Общие положения. Значение дорожных знаков.",
+    "code_subject": "2.1-2.2 A",
+    "order_subject": 2,
+    "code_content": "TASK_E",
+    "number_questions": 3
+  },
+  {
+    "language": "en",
+    "name": "B. Use of road signs.",
+    "code_subject": "2.1-2.2 B",
+    "order_subject": 3,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "B. Utilizarea indicatoarelor rutiere.",
+    "code_subject": "2.1-2.2 B",
+    "order_subject": 3,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "В. Применение дорожных знаков.",
+    "code_subject": "2.1-2.2 B",
+    "order_subject": 3,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 3. SIGNALS OF DRIVERS OF VEHICLES. USE OF EXTERNAL LIGHT INSTRUMENTS AND INSTRUMENTS OF LIGHT AND SOUND SIGNALING.",
+    "code_subject": "3",
+    "order_subject": 4,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 3. SEMNALELE CONDUCĂTORILOR DE VEHICULE. FOLOSIREA DISPOZITIVELOR DE ILUMINARE EXTERIOARA ȘI A DISPOZITIVELOR DE SEMNALIZARE LUMINOASĂ ŞI SONORA.",
+    "code_subject": "3",
+    "order_subject": 4,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 3. СИГНАЛЫ ВОДИТЕЛЕЙ ТРАНСПОРТНЫХ СРЕДСТВ. ПОЛЬЗОВАНИЕ ВНЕШНИМИ СВЕТОВЫМИ ПРИБОРАМИ И ПРИБОРАМИ СВЕТОВОЙ И ЗВУКОВОЙ СИГНАЛИЗАЦИИ.",
+    "code_subject": "3",
+    "order_subject": 4,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.1. STARTING MOVEMENT AND CHANGE OF MOTION DIRECTION.",
+    "code_subject": "4.1",
+    "order_subject": 5,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.1. ÎNCEPUTUL DEPLASĂRII ȘI SCHIMBAREA DIRECŢIEI DE MERS.",
+    "code_subject": "4.1",
+    "order_subject": 5,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.1. НАЧАЛО ДВИЖЕНИЯ И ИЗМЕНЕНИЕ НАПРАВЛЕНИЯ ДВИЖЕНИЯ.",
+    "code_subject": "4.1",
+    "order_subject": 5,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.6. STOP AND PARKING. PARKING.",
+    "code_subject": "4.6",
+    "order_subject": 6,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 4.6. OPRIREA Şl STAŢIONAREA VOLUNTARĂ. PARCAREA.",
+    "code_subject": "4.6",
+    "order_subject": 6,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 4.6. ОСТАНОВКА И СТОЯНКА. ПАРКОВКА.",
+    "code_subject": "4.6",
+    "order_subject": 6,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.7. TOWING DAMAGED MECHANICAL VEHICLES AND TRAILERS.",
+    "code_subject": "4.7",
+    "order_subject": 7,
+    "code_content": "TASK_E",
+    "number_questions": 3
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 4.7. REMORCAREA AUTOVEHICULELOR RÂMASE ÎN PANĂ ȘI TRACTAREA REMORCILOR.",
+    "code_subject": "4.7",
+    "order_subject": 7,
+    "code_content": "TASK_E",
+    "number_questions": 3
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 4.7. БУКСИРОВКА НЕИСПРАВНЫХ МЕХАНИЧЕСКИХ ТРАНСПОРТНЫХ СРЕДСТВ И ПРИЦЕПОВ.",
+    "code_subject": "4.7",
+    "order_subject": 7,
+    "code_content": "TASK_E",
+    "number_questions": 3
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.8. MOVEMENT IN RESIDENTIAL AND PEDESTRIAN ZONES. TRAFFIC ON THE HIGHWAYS. \\nB. Traffic on motorways.",
+    "code_subject": "4.8 B",
+    "order_subject": 8,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 4.8. CIRCULAŢIA PRIN ZONELE REZIDENŢIALE ȘI PIETONALE. CIRCULATE PE AUTOSTRĂZI.\\nB. Circulaţie pe autostrăzi.",
+    "code_subject": "4.8 B",
+    "order_subject": 8,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 4.8. ДВИЖЕНИЕ В ЖИЛЫХ И ПЕШЕХОДНЫХ ЗОНАХ. ДВИЖЕНИЕ НА АВТОМАГИСТРАЛЯХ.\\nВ. Движение на автомагистралях.",
+    "code_subject": "4.8 B",
+    "order_subject": 8,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 5. TRANSPORTATION OF PASSENGERS AND CARGO. \\nA. Carriage of passengers.",
+    "code_subject": "5 A",
+    "order_subject": 9,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 5. TRANSPORTUL DE PERSOANE ȘI TRANSPORTAREA ÎNCĂRCĂTURILOR.\\nA. Transportul de persoane.",
+    "code_subject": "5 A",
+    "order_subject": 9,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 5. ПЕРЕВОЗКА ПАССАЖИРОВ И ГРУЗОВ.\\nА. Перевозка пассажиров.",
+    "code_subject": "5 A",
+    "order_subject": 9,
+    "code_content": "TASK_E",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "B. Transportation of goods.",
+    "code_subject": "5 B",
+    "order_subject": 10,
+    "code_content": "TASK_E",
+    "number_questions": 4
+  },
+  {
+    "language": "ro",
+    "name": "B. Transportarea încărcăturilor.",
+    "code_subject": "5 B",
+    "order_subject": 10,
+    "code_content": "TASK_E",
+    "number_questions": 4
+  },
+  {
+    "language": "ru",
+    "name": "В. Перевозка грузов.",
+    "code_subject": "5 B",
+    "order_subject": 10,
+    "code_content": "TASK_E",
+    "number_questions": 4
+  },
+  {
+    "language": "en",
+    "name": "THEME 7. TECHNICAL CONDITIONS FOR ACCESS TO ROAD TRAFFIC OF MECHANICAL VEHICLES AND TRAILERS. IDENTIFICATION SIGNS OF VEHICLES. \\nA. Specifications for the admission to traffic of motor vehicles and trailers.",
+    "code_subject": "7 A",
+    "order_subject": 11,
+    "code_content": "TASK_E",
+    "number_questions": 2
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 7. CONDIŢII TEHNICE PENTRU ADMITEREA ÎN CIRCULAŢIE A AUTOVEHICULELOR ȘI REMORCILOR. MIJLOACE DE IDENTIFICARE A UNOR VEHICULE. SEMNE DISTINCTIVE.\\nA. Condiţii tehnice pentru admiterea în circulaţie a autovehiculelor şi remorcilor.",
+    "code_subject": "7 A",
+    "order_subject": 11,
+    "code_content": "TASK_E",
+    "number_questions": 2
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 7. ТЕХНИЧЕСКИЕ УСЛОВИЯ ДЛЯ ДОПУСКА К ДОРОЖНОМУ ДВИЖЕНИЮ МЕХАНИЧЕСКИХ ТРАНСПОРТНЫХ СРЕДСТВ И ПРИЦЕПОВ. ОПОЗНАВАТЕЛЬНЫЕ ЗНАКИ ТРАНСПОРТНЫХ CРЕДСТВ. \\nА. Технические условия для допуска к дорожному движению механических транспортных средств и прицепов.",
+    "code_subject": "7 A",
+    "order_subject": 11,
+    "code_content": "TASK_E",
+    "number_questions": 2
+  },
+  {
+    "language": "en",
+    "name": "B. Identification marks of vehicles.",
+    "code_subject": "7 B",
+    "order_subject": 12,
+    "code_content": "TASK_E",
+    "number_questions": 2
+  },
+  {
+    "language": "ro",
+    "name": "B. Mijloace de identificare a unor vehicule. Semne distinctive.",
+    "code_subject": "7 B",
+    "order_subject": 12,
+    "code_content": "TASK_E",
+    "number_questions": 2
+  },
+  {
+    "language": "ru",
+    "name": "В. Опознавательные знаки транспортных средств.",
+    "code_subject": "7 B",
+    "order_subject": 12,
+    "code_content": "TASK_E",
+    "number_questions": 2
+  },
+  {
+    "language": "en",
+    "name": "MANAGEMENT OF MECHANICAL VEHICLES. CORRECT ACTIONS AND SAFETY.",
+    "code_subject": "8",
+    "order_subject": 13,
+    "code_content": "TASK_E",
+    "number_questions": 7
+  },
+  {
+    "language": "ro",
+    "name": "CONDUCEREA AUTOVEHICULULUI. COMPORTAMENT ȘI SEGURANȚĂ.",
+    "code_subject": "8",
+    "order_subject": 13,
+    "code_content": "TASK_E",
+    "number_questions": 29
+  },
+  {
+    "language": "ru",
+    "name": "УПРАВЛЕНИЕ МЕХАНИЧЕСКИМ ТРАНСПОРТНЫМ СРЕДСТВОМ. ПРАВИЛЬНЫЕ ДЕЙСТВИЯ И БЕЗОПАСНОСТЬ.",
+    "code_subject": "8",
+    "order_subject": 13,
+    "code_content": "TASK_E",
+    "number_questions": 29
+  },
+  {
+    "language": "en",
+    "name": "REGULATORY DOCUMENTS REGARDING ROAD TRAFFIC.",
+    "code_subject": "Regulations",
+    "order_subject": 14,
+    "code_content": "TASK_E",
+    "number_questions": 8
+  },
+  {
+    "language": "ro",
+    "name": "ACTELE NORMATIVE PRIVIND TRAFICUL RUTIER.",
+    "code_subject": "Regulations",
+    "order_subject": 14,
+    "code_content": "TASK_E",
+    "number_questions": 8
+  },
+  {
+    "language": "ru",
+    "name": "НОРМАТИВНЫЕ ДОКУМЕНТЫ ОТНОСИТЕЛЬНО ДОРОЖНОГО ДВИЖЕНИЯ.",
+    "code_subject": "Regulations",
+    "order_subject": 14,
+    "code_content": "TASK_E",
+    "number_questions": 8
+  },
+  {
+    "language": "en",
+    "name": "THEME 1.1. GENERAL PROVISIONS. BASIC CONCEPTS AND TERMS.",
+    "code_subject": "1.1",
+    "order_subject": 1,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 1.1. DISPOZIŢII GENERALE. NOŢIUNI ŞI TERMENI DE BAZĂ.",
+    "code_subject": "1.1",
+    "order_subject": 1,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 1.1. ОБЩИЕ ПОЛОЖЕНИЯ. ОСНОВНЫЕ ПОНЯТИЯ И ТЕРМИНЫ.",
+    "code_subject": "1.1",
+    "order_subject": 1,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 1.2. RESPONSIBILITIES OF VEHICLE DRIVERS. PROHIBITED BY THEM AND THEIR RIGHTS.",
+    "code_subject": "1.2",
+    "order_subject": 2,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 1.2. DREPTURILE, OBLIGAŢIILE ŞI RESTRICŢIILE PENTRU CONDUCĂTORII DE VEHICULE.",
+    "code_subject": "1.2",
+    "order_subject": 2,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 1.2. ОБЯЗАННОСТИ ВОДИТЕЛЕЙ ТРАНСПОРТНЫХ СРЕДСТВ. НАЛАГАЕМЫЕ НА НИХ ЗАПРЕЩЕНИЯМ И ИХ ПРАВА.",
+    "code_subject": "1.2",
+    "order_subject": 2,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 2.1. GENERAL PROVISIONS.\\nTHEME 2.2. ROAD SIGNS.\\nА. General Provisions. Significance of road signs.",
+    "code_subject": "2.1-2.2 A",
+    "order_subject": 3,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "ТEMA 2.1 DISPOZIŢII GENERALE.\\nТEMA 2.2. INDICATOARELE RUTIERE.\\nA. Dispoziţii generale. Semnificaţia indicatoarelor rutiere.",
+    "code_subject": "2.1-2.2 A",
+    "order_subject": 3,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "ТEMA 2.1. ОБЩИЕ ПОЛОЖЕНИЯ.\\nТEMA 2.2. ДОРОЖНЫЕ ЗНАКИ.\\nА. Общие положения. Значение дорожных знаков.",
+    "code_subject": "2.1-2.2 A",
+    "order_subject": 3,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "B. Use of road signs.",
+    "code_subject": "2.1-2.2 B",
+    "order_subject": 4,
+    "code_content": "TASK_F",
+    "number_questions": 2
+  },
+  {
+    "language": "ro",
+    "name": "B. Utilizarea indicatoarelor rutiere.",
+    "code_subject": "2.1-2.2 B",
+    "order_subject": 4,
+    "code_content": "TASK_F",
+    "number_questions": 2
+  },
+  {
+    "language": "ru",
+    "name": "В. Применение дорожных знаков.",
+    "code_subject": "2.1-2.2 B",
+    "order_subject": 4,
+    "code_content": "TASK_F",
+    "number_questions": 2
+  },
+  {
+    "language": "en",
+    "name": "THEME 2.5. SIGNALS OF TRAFFIC LIGHTD. \\nTHEME 2.6. ALARM ON RAILWAYS.",
+    "code_subject": "2.5-2.6",
+    "order_subject": 5,
+    "code_content": "TASK_F",
+    "number_questions": 5
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 2.5. SEMNALELE LUMINOASE. \\nTEMA 2.6. SEMNALIZAREA TRECERILOR LA NIVEL CU CALEA FERATĂ.",
+    "code_subject": "2.5-2.6",
+    "order_subject": 5,
+    "code_content": "TASK_F",
+    "number_questions": 5
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 2.5. СИГНАЛЫ СВЕТОФОРОВ. \\nTEMA 2.6. СИГНАЛИЗАЦИЯ НА ЖЕЛЕЗНОДОРОЖНЫХ ПЕРЕЕЗДАХ.",
+    "code_subject": "2.5-2.6",
+    "order_subject": 5,
+    "code_content": "TASK_F",
+    "number_questions": 5
+  },
+  {
+    "language": "en",
+    "name": "THEME 3. SIGNALS OF DRIVERS OF VEHICLES. USE OF EXTERNAL LIGHT INSTRUMENTS AND INSTRUMENTS OF LIGHT AND SOUND SIGNALING.",
+    "code_subject": "3",
+    "order_subject": 6,
+    "code_content": "TASK_F",
+    "number_questions": 4
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 3. SEMNALELE CONDUCĂTORILOR DE VEHICULE. FOLOSIREA DISPOZITIVELOR DE ILUMINARE EXTERIOARA ȘI A DISPOZITIVELOR DE SEMNALIZARE LUMINOASĂ ŞI SONORA.",
+    "code_subject": "3",
+    "order_subject": 6,
+    "code_content": "TASK_F",
+    "number_questions": 4
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 3. СИГНАЛЫ ВОДИТЕЛЕЙ ТРАНСПОРТНЫХ СРЕДСТВ. ПОЛЬЗОВАНИЕ ВНЕШНИМИ СВЕТОВЫМИ ПРИБОРАМИ И ПРИБОРАМИ СВЕТОВОЙ И ЗВУКОВОЙ СИГНАЛИЗАЦИИ.",
+    "code_subject": "3",
+    "order_subject": 6,
+    "code_content": "TASK_F",
+    "number_questions": 4
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.1. STARTING MOVEMENT AND CHANGE OF MOTION DIRECTION.",
+    "code_subject": "4.1",
+    "order_subject": 7,
+    "code_content": "TASK_F",
+    "number_questions": 2
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.1. ÎNCEPUTUL DEPLASĂRII ȘI SCHIMBAREA DIRECŢIEI DE MERS.",
+    "code_subject": "4.1",
+    "order_subject": 7,
+    "code_content": "TASK_F",
+    "number_questions": 2
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.1. НАЧАЛО ДВИЖЕНИЯ И ИЗМЕНЕНИЕ НАПРАВЛЕНИЯ ДВИЖЕНИЯ.",
+    "code_subject": "4.1",
+    "order_subject": 7,
+    "code_content": "TASK_F",
+    "number_questions": 2
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.2. LOCATION OF VEHICLES ON THE ROAD.",
+    "code_subject": "4.2",
+    "order_subject": 8,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.2. POZIŢIA VEHICULELOR PE CAROSABIL.",
+    "code_subject": "4.2",
+    "order_subject": 8,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.2. РАСПОЛОЖЕНИЕ ТРАНСПОРТНЫХ СРЕДСТВ НА ПРОЕЗЖЕЙ ЧАСТИ.",
+    "code_subject": "4.2",
+    "order_subject": 8,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.3. MOVEMENT SPEED AND DISTANCE BETWEEN VEHICLES.",
+    "code_subject": "4.3",
+    "order_subject": 9,
+    "code_content": "TASK_F",
+    "number_questions": 4
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.3. VITEZA DE DEPLASARE ŞI SPAŢIUL ÎNTRE VEHICULE.",
+    "code_subject": "4.3",
+    "order_subject": 9,
+    "code_content": "TASK_F",
+    "number_questions": 4
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.3. СКОРОСТЬ ДВИЖЕНИЯ И ДИСТАНЦИЯ МЕЖДУ ТРАНСПОРТНЫМИ СРЕДСТВАМИ.",
+    "code_subject": "4.3",
+    "order_subject": 9,
+    "code_content": "TASK_F",
+    "number_questions": 4
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.5. CROSSROADS AND TRAFFIC THROUGH RAILWAYS. \\ nE. Traffic through railways.",
+    "code_subject": "4.5 E",
+    "order_subject": 10,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 4.5. CIRCULAŢIA ÎN INTERSECŢII ȘI TRAVERSAREA CĂILOR FERATE. \\nE. Traversarea căilor ferate.",
+    "code_subject": "4.5 E",
+    "order_subject": 10,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 4.5. ПРОЕЗД ПЕРЕКРЁСТКОВ И ДВИЖЕНИЕ ЧЕРЕЗ ЖЕЛЕЗНОДОРОЖНЫЕ ПУТИ. \\nЕ. Движение через железнодорожные пути.",
+    "code_subject": "4.5 E",
+    "order_subject": 10,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.6. STOP AND PARKING. PARKING.",
+    "code_subject": "4.6",
+    "order_subject": 11,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 4.6. OPRIREA Şl STAŢIONAREA VOLUNTARĂ. PARCAREA.",
+    "code_subject": "4.6",
+    "order_subject": 11,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 4.6. ОСТАНОВКА И СТОЯНКА. ПАРКОВКА.",
+    "code_subject": "4.6",
+    "order_subject": 11,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.7. TOWING DAMAGED MECHANICAL VEHICLES AND TRAILERS.",
+    "code_subject": "4.7",
+    "order_subject": 12,
+    "code_content": "TASK_F",
+    "number_questions": 3
+  },
+  {
+    "language": "ro",
+    "name": "ТЕМА 4.7. REMORCAREA AUTOVEHICULELOR RÂMASE ÎN PANĂ ȘI TRACTAREA REMORCILOR.",
+    "code_subject": "4.7",
+    "order_subject": 12,
+    "code_content": "TASK_F",
+    "number_questions": 3
+  },
+  {
+    "language": "ru",
+    "name": "ТЕМА 4.7. БУКСИРОВКА НЕИСПРАВНЫХ МЕХАНИЧЕСКИХ ТРАНСПОРТНЫХ СРЕДСТВ И ПРИЦЕПОВ.",
+    "code_subject": "4.7",
+    "order_subject": 12,
+    "code_content": "TASK_F",
+    "number_questions": 3
+  },
+  {
+    "language": "en",
+    "name": "THEME 4.9. PARTICIPATION OF VEHICLES IN INTERNATIONAL TRAFFIC. DRIVING TRAINING VEHICLES. \\nB. Training in driving vehicles.",
+    "code_subject": "4.9 B",
+    "order_subject": 13,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "ТEMA 4.9. CIRCULAŢIA AUTOVEHICULELOR ÎN TRAFICUL INTERNAŢIONAL. INSTRUIREA ÎN CONDUCEREA AUTOVEHICULELOR.\\nB. Instruirea în conducerea autovehiculelor.",
+    "code_subject": "4.9 B",
+    "order_subject": 13,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "ТEMA 4.9. УЧАСТИЕ ТРАНСПОРТНЫХ СРЕДСТВ В МЕЖДУНАРОДНОМ ДВИЖЕНИИ. ОБУЧЕНИЕ ВОЖДЕНИЮ ТРАНСПОРТНЫХ СРЕДСТВ.\\nВ. Обучение вождению транспортных средств.",
+    "code_subject": "4.9 B",
+    "order_subject": 13,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 5. TRANSPORTATION OF PASSENGERS AND CARGO. \\nA. Carriage of passengers.",
+    "code_subject": "5 A",
+    "order_subject": 14,
+    "code_content": "TASK_F",
+    "number_questions": 4
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 5. TRANSPORTUL DE PERSOANE ȘI TRANSPORTAREA ÎNCĂRCĂTURILOR.\\nA. Transportul de persoane.",
+    "code_subject": "5 A",
+    "order_subject": 14,
+    "code_content": "TASK_F",
+    "number_questions": 4
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 5. ПЕРЕВОЗКА ПАССАЖИРОВ И ГРУЗОВ.\\nА. Перевозка пассажиров.",
+    "code_subject": "5 A",
+    "order_subject": 14,
+    "code_content": "TASK_F",
+    "number_questions": 4
+  },
+  {
+    "language": "en",
+    "name": "THEME 5. TRANSPORTATION OF PASSENGERS AND CARGO. \\nB. Transportation of goods.",
+    "code_subject": "5 B",
+    "order_subject": 15,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 5. TRANSPORTUL DE PERSOANE ȘI TRANSPORTAREA ÎNCĂRCĂTURILOR.\\nB. Transportarea încărcăturilor.",
+    "code_subject": "5 B",
+    "order_subject": 15,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 5. ПЕРЕВОЗКА ПАССАЖИРОВ И ГРУЗОВ.\\nВ. Перевозка грузов.",
+    "code_subject": "5 B",
+    "order_subject": 15,
+    "code_content": "TASK_F",
+    "number_questions": 1
+  },
+  {
+    "language": "en",
+    "name": "THEME 7. TECHNICAL CONDITIONS FOR ACCESS TO ROAD TRAFFIC OF MECHANICAL VEHICLES AND TRAILERS. IDENTIFICATION SIGNS OF VEHICLES. \\nA. Specifications for the admission to traffic of motor vehicles and trailers.",
+    "code_subject": "7 A",
+    "order_subject": 16,
+    "code_content": "TASK_F",
+    "number_questions": 5
+  },
+  {
+    "language": "ro",
+    "name": "TEMA 7. CONDIŢII TEHNICE PENTRU ADMITEREA ÎN CIRCULAŢIE A AUTOVEHICULELOR ȘI REMORCILOR. MIJLOACE DE IDENTIFICARE A UNOR VEHICULE. SEMNE DISTINCTIVE.\\nA. Condiţii tehnice pentru admiterea în circulaţie a autovehiculelor şi remorcilor.",
+    "code_subject": "7 A",
+    "order_subject": 16,
+    "code_content": "TASK_F",
+    "number_questions": 5
+  },
+  {
+    "language": "ru",
+    "name": "TEMA 7. ТЕХНИЧЕСКИЕ УСЛОВИЯ ДЛЯ ДОПУСКА К ДОРОЖНОМУ ДВИЖЕНИЮ МЕХАНИЧЕСКИХ ТРАНСПОРТНЫХ СРЕДСТВ И ПРИЦЕПОВ. ОПОЗНАВАТЕЛЬНЫЕ ЗНАКИ ТРАНСПОРТНЫХ CРЕДСТВ. \\nА. Технические условия для допуска к дорожному движению механических транспортных средств и прицепов.",
+    "code_subject": "7 A",
+    "order_subject": 16,
+    "code_content": "TASK_F",
+    "number_questions": 5
+  },
+  {
+    "language": "en",
+    "name": "MANAGEMENT OF MECHANICAL VEHICLES. CORRECT ACTIONS AND SAFETY.",
+    "code_subject": "8",
+    "order_subject": 17,
+    "code_content": "TASK_F",
+    "number_questions": 6
+  },
+  {
+    "language": "ro",
+    "name": "CONDUCEREA AUTOVEHICULULUI. COMPORTAMENT ȘI SEGURANȚĂ.",
+    "code_subject": "8",
+    "order_subject": 17,
+    "code_content": "TASK_F",
+    "number_questions": 6
+  },
+  {
+    "language": "ru",
+    "name": "УПРАВЛЕНИЕ МЕХАНИЧЕСКИМ ТРАНСПОРТНЫМ СРЕДСТВОМ. ПРАВИЛЬНЫЕ ДЕЙСТВИЯ И БЕЗОПАСНОСТЬ.",
+    "code_subject": "8",
+    "order_subject": 17,
+    "code_content": "TASK_F",
+    "number_questions": 6
+  },
+  {
+    "language": "en",
+    "name": "REGULATORY DOCUMENTS REGARDING ROAD TRAFFIC.",
+    "code_subject": "Regulations",
+    "order_subject": 18,
+    "code_content": "TASK_F",
+    "number_questions": 5
+  },
+  {
+    "language": "ro",
+    "name": "ACTELE NORMATIVE PRIVIND TRAFICUL RUTIER.",
+    "code_subject": "Regulations",
+    "order_subject": 18,
+    "code_content": "TASK_F",
+    "number_questions": 5
+  },
+  {
+    "language": "ru",
+    "name": "НОРМАТИВНЫЕ ДОКУМЕНТЫ ОТНОСИТЕЛЬНО ДОРОЖНОГО ДВИЖЕНИЯ.",
+    "code_subject": "Regulations",
+    "order_subject": 18,
+    "code_content": "TASK_F",
+    "number_questions": 5
+  }
+]

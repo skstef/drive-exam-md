@@ -1,21 +1,73 @@
+/* src/styles/globals.css */
+
+/* Tailwind CSS Reset */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+/* Custom global styles */
+html,
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Arial", sans-serif; /* Default font for the entire app */
+  margin: 0;
+  padding: 0;
+  background-color: #f9fafb; /* Light gray background */
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  font-weight: 600;
+}
+
+/* Center content globally */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Add custom styles for your app */
+body {
+  background-color: #f3f4f6; /* Light background for the entire app */
+}
+
+button {
+  cursor: pointer;
+}
+
+input,
+textarea {
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+}
+
+:root {
+  --primary-color: #1d4ed8; /* Custom primary color */
+  --secondary-color: #2563eb; /* Custom secondary color */
+  --text-color: #333; /* Text color */
+}
+
+/* Custom utility class for spacing */
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
+.mb-10 {
+  margin-bottom: 2.5rem;
 }

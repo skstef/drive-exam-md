@@ -1,0 +1,290 @@
+[
+  {
+    "language": "en",
+    "name": "AM, A1, A2, A, B1 and В",
+    "type": "EXAM_TASK",
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "order_content": 1,
+    "number_questions": 987
+  },
+  {
+    "language": "ro",
+    "name": "AM, A1, A2, A, B1 și В",
+    "type": "EXAM_TASK",
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "order_content": 1,
+    "number_questions": 987
+  },
+  {
+    "language": "ru",
+    "name": "AM, A1, A2, A, B1 и В",
+    "type": "EXAM_TASK",
+    "code_content": "TASK_A1_A2_A_B1_B",
+    "order_content": 1,
+    "number_questions": 987
+  },
+  {
+    "language": "en",
+    "name": "C1 and C",
+    "type": "EXAM_TASK",
+    "code_content": "TASK_C1_C",
+    "order_content": 2,
+    "number_questions": 90
+  },
+  {
+    "language": "ro",
+    "name": "C1 și C",
+    "type": "EXAM_TASK",
+    "code_content": "TASK_C1_C",
+    "order_content": 2,
+    "number_questions": 90
+  },
+  {
+    "language": "ru",
+    "name": "C1 и C",
+    "type": "EXAM_TASK",
+    "code_content": "TASK_C1_C",
+    "order_content": 2,
+    "number_questions": 90
+  },
+  {
+    "language": "en",
+    "name": "D1 and D",
+    "type": "EXAM_TASK",
+    "code_content": "TASK_D1_D",
+    "order_content": 3,
+    "number_questions": 60
+  },
+  {
+    "language": "ro",
+    "name": "D1 și D",
+    "type": "EXAM_TASK",
+    "code_content": "TASK_D1_D",
+    "order_content": 3,
+    "number_questions": 60
+  },
+  {
+    "language": "ru",
+    "name": "D1 и D",
+    "type": "EXAM_TASK",
+    "code_content": "TASK_D1_D",
+    "order_content": 3,
+    "number_questions": 60
+  },
+  {
+    "language": "en",
+    "name": "E",
+    "type": "EXAM_TASK",
+    "code_content": "TASK_E",
+    "order_content": 4,
+    "number_questions": 60
+  },
+  {
+    "language": "ro",
+    "name": "E",
+    "type": "EXAM_TASK",
+    "code_content": "TASK_E",
+    "order_content": 4,
+    "number_questions": 60
+  },
+  {
+    "language": "ru",
+    "name": "E",
+    "type": "EXAM_TASK",
+    "code_content": "TASK_E",
+    "order_content": 4,
+    "number_questions": 60
+  },
+  {
+    "language": "en",
+    "name": "F",
+    "type": "EXAM_TASK",
+    "code_content": "TASK_F",
+    "order_content": 5,
+    "number_questions": 48
+  },
+  {
+    "language": "ro",
+    "name": "F",
+    "type": "EXAM_TASK",
+    "code_content": "TASK_F",
+    "order_content": 5,
+    "number_questions": 48
+  },
+  {
+    "language": "ru",
+    "name": "F",
+    "type": "EXAM_TASK",
+    "code_content": "TASK_F",
+    "order_content": 5,
+    "number_questions": 48
+  },
+  {
+    "language": "en",
+    "name": "AM, A1, A2, A, B1 and В",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_A1_A2_A_B1_B",
+    "order_content": 1,
+    "number_questions": 24
+  },
+  {
+    "language": "ro",
+    "name": "AM, A1, A2, A, B1 și В",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_A1_A2_A_B1_B",
+    "order_content": 1,
+    "number_questions": 24
+  },
+  {
+    "language": "ru",
+    "name": "AM, A1, A2, A, B1 и В",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_A1_A2_A_B1_B",
+    "order_content": 1,
+    "number_questions": 24
+  },
+  {
+    "language": "en",
+    "name": "C1 and C",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_C1_C",
+    "order_content": 2,
+    "number_questions": 30
+  },
+  {
+    "language": "ro",
+    "name": "C1 și C",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_C1_C",
+    "order_content": 2,
+    "number_questions": 30
+  },
+  {
+    "language": "ru",
+    "name": "C1 и C",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_C1_C",
+    "order_content": 2,
+    "number_questions": 30
+  },
+  {
+    "language": "en",
+    "name": "BE",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_B_E",
+    "order_content": 3,
+    "number_questions": 30
+  },
+  {
+    "language": "ro",
+    "name": "BE",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_B_E",
+    "order_content": 3,
+    "number_questions": 30
+  },
+  {
+    "language": "ru",
+    "name": "BE",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_B_E",
+    "order_content": 3,
+    "number_questions": 30
+  },
+  {
+    "language": "en",
+    "name": "C1E and CE",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_C1_E_C_E",
+    "order_content": 4,
+    "number_questions": 36
+  },
+  {
+    "language": "ro",
+    "name": "C1E și CE",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_C1_E_C_E",
+    "order_content": 4,
+    "number_questions": 36
+  },
+  {
+    "language": "ru",
+    "name": "C1E и CE",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_C1_E_C_E",
+    "order_content": 4,
+    "number_questions": 36
+  },
+  {
+    "language": "en",
+    "name": "D1E and DE",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_D1_E_D_E",
+    "order_content": 5,
+    "number_questions": 36
+  },
+  {
+    "language": "ro",
+    "name": "D1E și DE",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_D1_E_D_E",
+    "order_content": 5,
+    "number_questions": 36
+  },
+  {
+    "language": "ru",
+    "name": "D1E и DE",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_D1_E_D_E",
+    "order_content": 5,
+    "number_questions": 36
+  },
+  {
+    "language": "en",
+    "name": "D1 and D",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_D1_D",
+    "order_content": 6,
+    "number_questions": 30
+  },
+  {
+    "language": "ro",
+    "name": "D1 și D",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_D1_D",
+    "order_content": 6,
+    "number_questions": 30
+  },
+  {
+    "language": "ru",
+    "name": "D1 и D",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_D1_D",
+    "order_content": 6,
+    "number_questions": 30
+  },
+  {
+    "language": "en",
+    "name": "F",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_F",
+    "order_content": 7,
+    "number_questions": 30
+  },
+  {
+    "language": "ro",
+    "name": "F",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_F",
+    "order_content": 7,
+    "number_questions": 30
+  },
+  {
+    "language": "ru",
+    "name": "F",
+    "type": "THEORETICAL_EXAM",
+    "code_content": "EXAM_F",
+    "order_content": 7,
+    "number_questions": 30
+  }
+]
