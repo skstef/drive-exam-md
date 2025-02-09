@@ -11,7 +11,7 @@ export const QuestionsNavigation = () => {
         <div
           key={index}
           className={classNames(
-            "bg-gray-200 rounded-lg px-4 py-2 mr-2 mb-2 text-center",
+            "bg-gray-200 max-w-12 w-full rounded-lg py-2 mr-2 mb-2 text-center",
             el.isAnswered
               ? el.isAnswerCorrect
                 ? "bg-green-500 text-white"
