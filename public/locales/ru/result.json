@@ -2,7 +2,7 @@
   "title": "Результаты экзамена",
   "category": "Категория",
   "score": "Вы ответили правильно на {{correctAnswers}} из {{totalQuestions}} вопросов!",
-  "incorrect": "Вы допустили {{incorrect}} ошибок.",
+  "incorrect": "Вы допустили {{incorrect}} ошибок из {{allowedErrors}} допустимых.",
   "result": "Результат",
   "success": "Сдано",
   "failure": "Не сдано",

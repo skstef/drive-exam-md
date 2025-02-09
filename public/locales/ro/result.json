@@ -2,7 +2,7 @@
   "title": "Rezultatele examenului",
   "category": "Categorie",
   "score": "Ați răspuns corect la {{correctAnswers}} din {{totalQuestions}} întrebări!",
-  "incorrect": "Ați avut {{incorrect}} răspunsuri incorecte.",
+  "incorrect": "Ați făcut {{incorrect}} răspunsuri incorecte din {{allowedErrors}} permise.",
   "result": "Rezultat",
   "success": "Promovat",
   "failure": "Respins",

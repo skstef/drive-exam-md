@@ -102,6 +102,8 @@ const examSlice = createSlice({
       state.totalTime = action.payload.totalTime;
       state.allowedErrors = action.payload.allowedErrors;
       state.wrongResponsesCount = 0;
+      state.isExamFailed = false;
+      state.failedCause = null;
     });
   },
 });

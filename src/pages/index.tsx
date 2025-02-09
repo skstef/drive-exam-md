@@ -17,7 +17,7 @@ const Home = () => {
   const handleLanguageSelection = async (language: string) => {
     dispatch(setLanguage(language));
     await i18n.changeLanguage(language);
-    router.push("/category");
+    router.push("/category", "/category", { locale: language });
   };
 
   return (

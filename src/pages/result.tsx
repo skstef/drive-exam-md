@@ -18,6 +18,9 @@ const Result = () => {
     (state: RootState) =>
       state.exam.questions?.filter((q) => q.isAnswerCorrect).length
   );
+  const allowedErrors = useSelector(
+    (state: RootState) => state.exam.allowedErrors
+  );
   const isExamFailed = useSelector(
     (state: RootState) => state.exam.isExamFailed
   );
@@ -54,7 +57,10 @@ const Result = () => {
             </span>
           </p>
           <p className="text-lg mt-4">
-            {t("incorrect", { incorrect: totalQuestions! - correctAnswers! })}
+            {t("incorrect", {
+              incorrect: totalQuestions! - correctAnswers!,
+              allowedErrors,
+            })}
           </p>
         </div>
 
