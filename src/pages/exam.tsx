@@ -1,136 +1,99 @@
-// src/pages/exam.tsx
-import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { RootState } from "../store";
-import {
-  setAnswer,
-  nextQuestion,
-  setErrors,
-} from "../store/slices/exam/examSlice";
-import { useRouter } from "next/router";
+import { nextQuestion } from "../store/slices/exam/examSlice";
+import ProgressBar from "@/components/exam/ProgressBar";
+import { useTranslation } from "next-i18next";
+import Router from "next/router";
+import { useEffect } from "react";
+import { QuestionImage } from "@/components/exam/QuestionImage";
+import { ResponseButton } from "@/components/exam/ResponseButton";
+import { ShortComment } from "@/components/exam/ShortComment";
+import { ExamFallenInfo } from "@/components/exam/ExamFallenInfo";
+import { QuestionsNavigation } from "@/components/exam/QuestionsNavigation";
 
 const Exam = () => {
   const dispatch = useDispatch();
-  const router = useRouter();
-  const { category, language, currentQuestion, answers, errors } = useSelector(
-    (state: RootState) => state.exam
+  const { t } = useTranslation("exam");
+  const selectedCategory = useSelector(
+    (state: RootState) => state.exam.category
   );
-  const [questionData, setQuestionData] = useState<any[]>([]); // Assume you have question data per category
-  const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
+  const selectedLanguage = useSelector(
+    (state: RootState) => state.exam.language
+  );
+  const totalQuestions = useSelector(
+    (state: RootState) => state.exam.totalQuestions!
+  );
+  const currentQuestionIndex = useSelector(
+    (state: RootState) => state.exam.currentQuestion!
+  );
+  const totalTime = useSelector((state: RootState) => state.exam.totalTime);
+  const currentQuestion = useSelector((state: RootState) =>
+    state.exam.questions ? state.exam.questions[currentQuestionIndex] : null
+  );
 
-  // Load the questions based on the selected category
-  useEffect(() => {
-    const fetchQuestions = async () => {
-      // Example hardcoded question data, replace with API or static data
-      const questions = {
-        A1: [
-          {
-            question: "What is the speed limit in urban areas?",
-            options: ["30 km/h", "50 km/h", "80 km/h"],
-            correct: "50 km/h",
-          },
-          {
-            question: "When should you use your horn?",
-            options: [
-              "In traffic jams",
-              "To warn other drivers of danger",
-              "To greet people",
-            ],
-            correct: "To warn other drivers of danger",
-          },
-        ],
-        B: [
-          {
-            question: "What is the legal alcohol limit?",
-            options: ["0.2 g/L", "0.5 g/L", "1.0 g/L"],
-            correct: "0.5 g/L",
-          },
-          {
-            question: "How far should you park from a junction?",
-            options: ["5 meters", "10 meters", "15 meters"],
-            correct: "10 meters",
-          },
-        ],
-        // Add other categories...
-      };
-
-      setQuestionData(questions[category] || []);
-    };
-
-    fetchQuestions();
-  }, [category]);
-
-  const handleAnswerSelection = (answer: string) => {
-    setSelectedAnswer(answer);
-  };
+  const responses = [
+    currentQuestion?.response_01,
+    currentQuestion?.response_02,
+    currentQuestion?.response_03,
+    currentQuestion?.response_04,
+    currentQuestion?.response_05,
+  ].filter((el) => (el?.length ?? 0) > 0);
 
   const handleNextQuestion = () => {
-    if (selectedAnswer === null) return;
-
-    dispatch(setAnswer({ index: currentQuestion - 1, answer: selectedAnswer }));
-
-    // Check if the answer is correct and update the error count
-    const correctAnswer = questionData[currentQuestion - 1]?.correct;
-    if (selectedAnswer !== correctAnswer) {
-      dispatch(setErrors(errors + 1));
-    }
-
-    // Move to the next question
-    if (currentQuestion < questionData.length) {
+    if (currentQuestionIndex + 1 < totalQuestions) {
       dispatch(nextQuestion());
     } else {
-      // Redirect to results page after the last question
-      router.push("/result");
+      Router.push("/result");
     }
-
-    // Reset the selected answer for the next question
-    setSelectedAnswer(null);
   };
+
+  useEffect(() => {
+    if (selectedLanguage === null || selectedCategory === null) {
+      Router.push("/");
+    }
+  }, [selectedCategory, selectedLanguage]);
 
   return (
     <div className="flex items-center justify-center min-h-screen bg-gray-50">
-      <div className="bg-white p-8 rounded-lg shadow-xl w-full max-w-xl">
+      <div className="bg-white p-8 rounded-lg shadow-xl w-full max-w-xl relative my-2">
+        <ProgressBar initialTime={totalTime! * 60} />
+        <ExamFallenInfo />
         <h1 className="text-2xl font-bold text-center mb-6">
-          Exam: {category}
+          {t("exam:category")}: {t(`exam:${selectedCategory}`)}
         </h1>
-        <p className="text-lg text-center mb-4">Language: {language}</p>
 
-        {questionData.length > 0 && currentQuestion <= questionData.length ? (
-          <div>
-            <div className="mb-4">
-              <p className="text-xl font-semibold">
-                {questionData[currentQuestion - 1]?.question}
-              </p>
-            </div>
+        <div>
+          <QuestionImage />
+          <p className="text-xl font-semibold mt-2 mb-4">
+            {currentQuestion?.question}
+          </p>
 
-            <div className="space-y-4">
-              {questionData[currentQuestion - 1]?.options.map(
-                (option, index) => (
-                  <button
-                    key={index}
-                    onClick={() => handleAnswerSelection(option)}
-                    className={`w-full px-4 py-2 text-left bg-gray-200 hover:bg-blue-100 rounded-lg ${
-                      selectedAnswer === option ? "bg-blue-500 text-white" : ""
-                    }`}
-                  >
-                    {option}
-                  </button>
-                )
-              )}
-            </div>
-
-            <div className="mt-6">
-              <button
-                onClick={handleNextQuestion}
-                className="w-full px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600"
-              >
-                Next Question
-              </button>
-            </div>
+          <div className="space-y-4">
+            {responses.map((option, index) => (
+              <ResponseButton
+                key={index}
+                option={option!}
+                index={index}
+                isQuestionAnswered={currentQuestion?.isAnswered}
+              />
+            ))}
           </div>
-        ) : (
-          <p className="text-lg">Loading questions...</p>
-        )}
+          <ShortComment />
+
+          <div className="mt-6">
+            <button
+              disabled={!currentQuestion?.isAnswered}
+              onClick={handleNextQuestion}
+              className="w-full px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600"
+            >
+              {currentQuestionIndex + 1 < totalQuestions
+                ? t("exam:next_question")
+                : t("exam:result")}
+            </button>
+          </div>
+
+          <QuestionsNavigation />
+        </div>
       </div>
     </div>
   );

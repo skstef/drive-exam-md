@@ -1,5 +1,5 @@
 import { Code } from "@/store/slices/exam/types/Code";
-import { useTranslation } from "react-i18next";
+import { useTranslation } from "next-i18next";
 
 interface ICategoryButtonProps {
   imageSrc: string;

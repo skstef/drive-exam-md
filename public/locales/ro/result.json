@@ -1,0 +1,11 @@
+{
+  "title": "Rezultatele examenului",
+  "category": "Categorie: {{category}}",
+  "score": "Ați răspuns corect la {{correctAnswers}} din {{totalQuestions}} întrebări!",
+  "incorrect": "Ați avut {{incorrect}} răspunsuri incorecte.",
+  "result": "Rezultat",
+  "success": "Promovat",
+  "failure": "Respins",
+  "retry": "Reîncepeți examenul",
+  "home": "Înapoi la pagina principală"
+}

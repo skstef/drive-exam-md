@@ -4,7 +4,7 @@ import Router from "next/router";
 import { setCategory } from "@/store/slices/exam/middleware/setCategory";
 import { Code } from "@/store/slices/exam/types/Code";
 import { CategoryButton } from "@/components/category/CategoryButton";
-import { useTranslation } from "react-i18next";
+import { useTranslation } from "next-i18next";
 import { useEffect } from "react";
 import { CATEGORIES } from "@/config/categories";
 

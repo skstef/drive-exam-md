@@ -24,18 +24,18 @@ const Home = () => {
     <div className="flex items-center justify-center min-h-screen bg-gray-50">
       <div className="bg-white p-8 rounded-lg  shadow-xl w-full max-w-md">
         <h1 className="text-xl font-bold text-center mb-3">Alegeți limba:</h1>
-        <h1 className="text-xl font-bold text-center mb-3">Select language:</h1>
+        {/* <h1 className="text-xl font-bold text-center mb-3">Select language:</h1> */}
         <h1 className="text-xl font-bold text-center mb-12">Выберите язык:</h1>
 
         <div className="mb-6">
           <div className="flex flex-col gap-4 justify-around">
-            <LanguageButton
+            {/* <LanguageButton
               languageCode="en"
               language={"English"}
               imageSrc="/images/flag_united_kingdom.png"
               handleLanguageSelection={handleLanguageSelection}
               selectedLanguage={selectedLanguage}
-            />
+            /> */}
             <LanguageButton
               languageCode="ro"
               language={"Romîna"}

@@ -1,0 +1,11 @@
+{
+  "title": "Exam Results",
+  "category": "Category: {{category}}",
+  "score": "You answered {{correctAnswers}} out of {{totalQuestions}} correctly!",
+  "incorrect": "You had {{incorrect}} incorrect answers.",
+  "result": "Result",
+  "success": "Passed",
+  "failure": "Failed",
+  "retry": "Retry Exam",
+  "home": "Go Back to Home"
+}
