@@ -8,8 +8,10 @@ import { useEffect } from "react";
 import { QuestionImage } from "@/components/exam/QuestionImage";
 import { ResponseButton } from "@/components/exam/ResponseButton";
 import { ShortComment } from "@/components/exam/ShortComment";
-import { ExamFallenInfo } from "@/components/exam/ExamFallenInfo";
 import { QuestionsNavigation } from "@/components/exam/QuestionsNavigation";
+import { ExamFailedInfo } from "@/components/exam/ExamFailedInfo";
+import { GetStaticPropsContext } from "next";
+import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 
 const Exam = () => {
   const dispatch = useDispatch();
@@ -57,7 +59,7 @@ const Exam = () => {
     <div className="flex items-center justify-center min-h-screen bg-gray-50">
       <div className="bg-white p-8 rounded-lg shadow-xl w-full max-w-xl relative my-2">
         <ProgressBar initialTime={totalTime! * 60} />
-        <ExamFallenInfo />
+        <ExamFailedInfo />
         <h1 className="text-2xl font-bold text-center mb-6">
           {t("exam:category")}: {t(`exam:${selectedCategory}`)}
         </h1>
@@ -84,7 +86,7 @@ const Exam = () => {
             <button
               disabled={!currentQuestion?.isAnswered}
               onClick={handleNextQuestion}
-              className="w-full px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600"
+              className="w-full px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 cursor-pointer"
             >
               {currentQuestionIndex + 1 < totalQuestions
                 ? t("exam:next_question")
@@ -98,5 +100,13 @@ const Exam = () => {
     </div>
   );
 };
+
+export async function getStaticProps({ locale }: GetStaticPropsContext) {
+  return {
+    props: {
+      ...(await serverSideTranslations(locale as string, ["exam"])),
+    },
+  };
+}
 
 export default Exam;

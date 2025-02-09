@@ -7,6 +7,8 @@ import { CategoryButton } from "@/components/category/CategoryButton";
 import { useTranslation } from "next-i18next";
 import { useEffect } from "react";
 import { CATEGORIES } from "@/config/categories";
+import { GetStaticPropsContext } from "next";
+import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 
 const CategorySelector = () => {
   const dispatch = useAppDispatch();
@@ -52,5 +54,13 @@ const CategorySelector = () => {
     </div>
   );
 };
+
+export async function getStaticProps({ locale }: GetStaticPropsContext) {
+  return {
+    props: {
+      ...(await serverSideTranslations(locale as string, ["category"])),
+    },
+  };
+}
 
 export default CategorySelector;

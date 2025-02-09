@@ -17,8 +17,9 @@ interface ExamState {
   totalTime: number | null;
   allowedErrors: number | null;
   language: string | null;
-  isExamFallen: boolean;
+  isExamFailed: boolean;
   wrongResponsesCount: number | null;
+  failedCause: "answers" | "time" | null;
 }
 
 const initialState: ExamState = {
@@ -29,7 +30,8 @@ const initialState: ExamState = {
   totalTime: null,
   allowedErrors: null,
   language: null,
-  isExamFallen: false,
+  isExamFailed: false,
+  failedCause: null,
   wrongResponsesCount: null,
 };
 
@@ -56,7 +58,8 @@ const examSlice = createSlice({
         }
 
         if (state.wrongResponsesCount! > state.allowedErrors!) {
-          state.isExamFallen = true;
+          state.isExamFailed = true;
+          state.failedCause = "answers";
         }
       }
     },
@@ -74,8 +77,9 @@ const examSlice = createSlice({
         }
       }
     },
-    setExamFallen(state) {
-      state.isExamFallen = true;
+    setExamFailed(state) {
+      state.isExamFailed = true;
+      state.failedCause = "time";
     },
     resetExam(state) {
       state.category = null;
@@ -84,7 +88,8 @@ const examSlice = createSlice({
       state.questions = null;
       state.totalTime = null;
       state.allowedErrors = null;
-      state.isExamFallen = false;
+      state.isExamFailed = false;
+      state.failedCause = null;
       state.wrongResponsesCount = null;
     },
   },
@@ -105,7 +110,7 @@ export const {
   setLanguage,
   setAnswer,
   nextQuestion,
-  setExamFallen,
+  setExamFailed,
   resetExam,
 } = examSlice.actions;
 export default examSlice.reducer;

@@ -10,7 +10,7 @@ i18n
       /* translation file path */
       loadPath: "/locales/{{lng}}.json",
     },
-    fallbackLng: "en",
+    fallbackLng: "ro",
     debug: false,
     keySeparator: false,
     react: {

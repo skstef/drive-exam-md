@@ -15,8 +15,10 @@ export const ResponseButton: React.FC<IResponseButtonProps> = ({
 }) => {
   const dispatch = useDispatch();
 
-  const currentQuestion = useSelector(
-    (state: RootState) => state.exam.questions![state.exam.currentQuestion!]
+  const currentQuestion = useSelector((state: RootState) =>
+    state.exam.questions
+      ? state.exam.questions[state.exam.currentQuestion ?? 0]
+      : null
   );
 
   const handleAnswerSelection = (answer: number) => {
