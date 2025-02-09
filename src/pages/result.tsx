@@ -8,7 +8,7 @@ import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 import { GetStaticPropsContext } from "next";
 
 const Result = () => {
-  const { t } = useTranslation("result");
+  const { t } = useTranslation(["result", "common"]);
   const dispatch = useDispatch();
   const category = useSelector((state: RootState) => state.exam.category);
   const totalQuestions = useSelector(
@@ -39,7 +39,8 @@ const Result = () => {
         <h1 className="text-2xl font-bold text-center mb-6">{t("title")}</h1>
 
         <p className="text-lg text-center mb-6">
-          {t("category", { category })}
+          {t("category")}:{" "}
+          <span className="font-semibold">{t(`common:${category}`)}</span>
         </p>
 
         <div className="mb-6 text-center">
@@ -73,7 +74,7 @@ const Result = () => {
 export async function getStaticProps({ locale }: GetStaticPropsContext) {
   return {
     props: {
-      ...(await serverSideTranslations(locale as string, ["result"])),
+      ...(await serverSideTranslations(locale as string, ["common", "result"])),
     },
   };
 }
