@@ -2,19 +2,22 @@ import { useRouter } from "next/router";
 import { useDispatch, useSelector } from "react-redux";
 import { RootState } from "../store";
 import { setLanguage } from "../store/slices/exam/examSlice";
-import { useTranslation } from "react-i18next";
+import { useTranslation } from "next-i18next";
+import { LanguageButton } from "@/components/languages/LanguageButton";
 
 const Home = () => {
   const router = useRouter();
   const dispatch = useDispatch();
   const { i18n } = useTranslation();
-  const { language } = useSelector((state: RootState) => state.exam);
+  const selectedLanguage = useSelector(
+    (state: RootState) => state.exam.language
+  );
 
   // Handle language selection
-  const handleLanguageSelection = (language: string) => {
+  const handleLanguageSelection = async (language: string) => {
     dispatch(setLanguage(language));
-    i18n.changeLanguage(language);
-    router.push("/category"); // Navigate to category selection after language is set
+    await i18n.changeLanguage(language);
+    router.push("/category");
   };
 
   return (
@@ -26,45 +29,27 @@ const Home = () => {
 
         <div className="mb-6">
           <div className="flex flex-col gap-4 justify-around">
-            <button
-              onClick={() => handleLanguageSelection("en")}
-              className={`px-4 py-2 hover:bg-blue-100 rounded-lg flex justify-center gap-2 items-center ${
-                language === "en" ? "!bg-blue-500 text-white" : "bg-gray-200"
-              }`}
-            >
-              <img
-                src="/images/flag_united_kingdom.png"
-                alt="English"
-                className="w-8 h-8"
-              />
-              <span className="text-md font-medium">English</span>
-            </button>
-            <button
-              onClick={() => handleLanguageSelection("ro")}
-              className={`px-4 py-2 hover:bg-blue-100 rounded-lg flex justify-center gap-2 items-center ${
-                language === "ro" ? "!bg-blue-500 text-white" : "bg-gray-200"
-              }`}
-            >
-              <img
-                src="/images/flag_moldova.png"
-                alt="English"
-                className="w-8 h-8"
-              />
-              <span className="text-md font-medium">Româna</span>
-            </button>
-            <button
-              onClick={() => handleLanguageSelection("ru")}
-              className={`px-4 py-2 hover:bg-blue-100 rounded-lg flex justify-center gap-2 items-center ${
-                language === "ru" ? "!bg-blue-500 text-white" : "bg-gray-200"
-              }`}
-            >
-              <img
-                src="/images/flag_russia.png"
-                alt="English"
-                className="w-8 h-8"
-              />
-              <span className="text-md font-medium">Русский</span>
-            </button>
+            <LanguageButton
+              languageCode="en"
+              language={"English"}
+              imageSrc="/images/flag_united_kingdom.png"
+              handleLanguageSelection={handleLanguageSelection}
+              selectedLanguage={selectedLanguage}
+            />
+            <LanguageButton
+              languageCode="ro"
+              language={"Romîna"}
+              imageSrc="/images/flag_moldova.png"
+              handleLanguageSelection={handleLanguageSelection}
+              selectedLanguage={selectedLanguage}
+            />
+            <LanguageButton
+              languageCode="ru"
+              language={"Русский"}
+              imageSrc="/images/flag_russia.png"
+              handleLanguageSelection={handleLanguageSelection}
+              selectedLanguage={selectedLanguage}
+            />
           </div>
         </div>
       </div>
