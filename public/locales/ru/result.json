@@ -1,0 +1,11 @@
+{
+  "title": "Результаты экзамена",
+  "category": "Категория: {{category}}",
+  "score": "Вы ответили правильно на {{correctAnswers}} из {{totalQuestions}} вопросов!",
+  "incorrect": "Вы допустили {{incorrect}} ошибок.",
+  "result": "Результат",
+  "success": "Сдано",
+  "failure": "Не сдано",
+  "retry": "Пройти экзамен заново",
+  "home": "Вернуться на главную"
+}
