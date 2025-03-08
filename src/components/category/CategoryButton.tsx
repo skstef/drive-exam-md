@@ -48,7 +48,7 @@ export const CategoryButton: React.FC<ICategoryButtonProps> = ({
             />
             <div className="flex flex-col">
               <span className="text-sm font-medium mt-auto ml-6 mb-2">
-                {t("category:allowed-mistakes")}: {allowedErrors}
+                {t("category:allowed_mistakes")}: {allowedErrors}
               </span>
             </div>
           </div>

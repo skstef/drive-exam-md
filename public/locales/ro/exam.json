@@ -1,0 +1,16 @@
+{
+  "hint": "Sugestie",
+  "category": "Categorie: ",
+  "next_question": "Întrebarea următoare",
+  "result": "Rezultat",
+  "failed_answers": "Examen eșuat. Ați comis numar maxim de răspunsuri greșite.",
+  "failed_time": "Examen eșuat. Ați depășit limita de timp.",
+  "try_again": "Încercați din nou",
+  "EXAM_A1_A2_A_B1_B": "A1, A2, A, B1 și B",
+  "EXAM_C1_C": "C1 și C",
+  "EXAM_B_E": "BE",
+  "EXAM_C1_E_C_E": "C1E și CE",
+  "EXAM_D1_E_D_E": "D1E și DE",
+  "EXAM_D1_D": "D1 și D",
+  "EXAM_F": "F"
+}

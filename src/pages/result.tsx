@@ -18,8 +18,8 @@ const Result = () => {
     (state: RootState) =>
       state.exam.questions?.filter((q) => q.isAnswerCorrect).length
   );
-  const isExamFallen = useSelector(
-    (state: RootState) => state.exam.isExamFallen
+  const isExamFailed = useSelector(
+    (state: RootState) => state.exam.isExamFailed
   );
 
   useEffect(() => {
@@ -48,8 +48,8 @@ const Result = () => {
           </p>
           <p className="text-xl font-semibold my-6">
             {t("result")}:{" "}
-            <span className={isExamFallen ? "text-red-500" : "text-green-500"}>
-              {isExamFallen ? t("failure") : t("success")}
+            <span className={isExamFailed ? "text-red-500" : "text-green-500"}>
+              {isExamFailed ? t("failure") : t("success")}
             </span>
           </p>
           <p className="text-lg mt-4">
@@ -60,7 +60,7 @@ const Result = () => {
         <div className="space-y-4">
           <button
             onClick={handleRetry}
-            className="w-full px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600"
+            className="w-full px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 cursor-pointer"
           >
             {t("retry")}
           </button>
@@ -73,7 +73,7 @@ const Result = () => {
 export async function getStaticProps({ locale }: GetStaticPropsContext) {
   return {
     props: {
-      ...(await serverSideTranslations(locale as string, ["common", "result"])),
+      ...(await serverSideTranslations(locale as string, ["result"])),
     },
   };
 }

@@ -1,27 +1,34 @@
 import { RootState } from "@/store";
+import { setExamFailed } from "@/store/slices/exam/examSlice";
 import { useEffect, useState } from "react";
-import { useSelector } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 
 type ProgressBarProps = {
   initialTime: number;
 };
 
 const ProgressBar: React.FC<ProgressBarProps> = ({ initialTime }) => {
-  const isExamFallen = useSelector(
-    (state: RootState) => state.exam.isExamFallen
+  const dispatch = useDispatch();
+
+  const isExamFailed = useSelector(
+    (state: RootState) => state.exam.isExamFailed
   );
 
   const [timeLeft, setTimeLeft] = useState<number>(initialTime);
 
   useEffect(() => {
-    if (timeLeft <= 0) return;
+    if (timeLeft <= 0) {
+      dispatch(setExamFailed());
+      return;
+    }
+    if (isExamFailed) return;
 
-    const interval = setInterval(() => {
+    const interval = setTimeout(() => {
       setTimeLeft((prev) => Math.max(prev - 1, 0));
     }, 1000);
 
-    return () => clearInterval(interval);
-  }, [timeLeft]);
+    return () => clearTimeout(interval);
+  }, [timeLeft, isExamFailed, dispatch]);
 
   const formatTime = (seconds: number): string => {
     const minutes = Math.floor(seconds / 60);
