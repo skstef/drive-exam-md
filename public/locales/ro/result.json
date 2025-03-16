@@ -1,6 +1,6 @@
 {
   "title": "Rezultatele examenului",
-  "category": "Categorie: {{category}}",
+  "category": "Categorie",
   "score": "Ați răspuns corect la {{correctAnswers}} din {{totalQuestions}} întrebări!",
   "incorrect": "Ați avut {{incorrect}} răspunsuri incorecte.",
   "result": "Rezultat",

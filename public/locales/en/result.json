@@ -1,6 +1,6 @@
 {
   "title": "Exam Results",
-  "category": "Category: {{category}}",
+  "category": "Category",
   "score": "You answered {{correctAnswers}} out of {{totalQuestions}} correctly!",
   "incorrect": "You had {{incorrect}} incorrect answers.",
   "result": "Result",

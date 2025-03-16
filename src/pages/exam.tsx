@@ -15,7 +15,7 @@ import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 
 const Exam = () => {
   const dispatch = useDispatch();
-  const { t } = useTranslation("exam");
+  const { t } = useTranslation(["exam", "common"]);
   const selectedCategory = useSelector(
     (state: RootState) => state.exam.category
   );
@@ -61,7 +61,7 @@ const Exam = () => {
         <ProgressBar initialTime={totalTime! * 60} />
         <ExamFailedInfo />
         <h1 className="text-2xl font-bold text-center mb-6">
-          {t("exam:category")}: {t(`exam:${selectedCategory}`)}
+          {t("exam:category")}: {t(`common:${selectedCategory}`)}
         </h1>
 
         <div>
@@ -86,7 +86,7 @@ const Exam = () => {
             <button
               disabled={!currentQuestion?.isAnswered}
               onClick={handleNextQuestion}
-              className="w-full px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 cursor-pointer"
+              className="w-full px-6 py-2 bg-blue-500 disabled:bg-blue-500/50 disabled:cursor-no-drop text-white rounded-lg hover:bg-blue-600 cursor-pointer"
             >
               {currentQuestionIndex + 1 < totalQuestions
                 ? t("exam:next_question")
@@ -104,7 +104,7 @@ const Exam = () => {
 export async function getStaticProps({ locale }: GetStaticPropsContext) {
   return {
     props: {
-      ...(await serverSideTranslations(locale as string, ["exam"])),
+      ...(await serverSideTranslations(locale as string, ["common", "exam"])),
     },
   };
 }

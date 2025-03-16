@@ -1,6 +1,6 @@
 {
   "title": "Результаты экзамена",
-  "category": "Категория: {{category}}",
+  "category": "Категория",
   "score": "Вы ответили правильно на {{correctAnswers}} из {{totalQuestions}} вопросов!",
   "incorrect": "Вы допустили {{incorrect}} ошибок.",
   "result": "Результат",
