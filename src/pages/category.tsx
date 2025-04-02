@@ -1,27 +1,16 @@
-import { useSelector } from "react-redux";
-import { RootState, useAppDispatch } from "../store";
+import { useAppDispatch } from "../store";
 import Router from "next/router";
 import { setCategory } from "@/store/slices/exam/middleware/setCategory";
 import { Code } from "@/store/slices/exam/types/Code";
 import { CategoryButton } from "@/components/category/CategoryButton";
 import { useTranslation } from "next-i18next";
-import { useEffect } from "react";
 import { CATEGORIES } from "@/config/categories";
 import { GetStaticPropsContext } from "next";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 
 const CategorySelector = () => {
   const dispatch = useAppDispatch();
-  const selectedLanguage = useSelector(
-    (state: RootState) => state.exam.language
-  );
   const { t } = useTranslation("category");
-
-  useEffect(() => {
-    if (selectedLanguage === null) {
-      Router.push("/");
-    }
-  }, [selectedLanguage]);
 
   // Handle category selection
   const handleCategorySelection = (code: Code) => {

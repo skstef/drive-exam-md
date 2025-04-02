@@ -4,7 +4,6 @@ import { nextQuestion } from "../store/slices/exam/examSlice";
 import ProgressBar from "@/components/exam/ProgressBar";
 import { useTranslation } from "next-i18next";
 import Router from "next/router";
-import { useEffect } from "react";
 import { QuestionImage } from "@/components/exam/QuestionImage";
 import { ResponseButton } from "@/components/exam/ResponseButton";
 import { ShortComment } from "@/components/exam/ShortComment";
@@ -18,9 +17,6 @@ const Exam = () => {
   const { t } = useTranslation(["exam", "common"]);
   const selectedCategory = useSelector(
     (state: RootState) => state.exam.category
-  );
-  const selectedLanguage = useSelector(
-    (state: RootState) => state.exam.language
   );
   const totalQuestions = useSelector(
     (state: RootState) => state.exam.totalQuestions!
@@ -48,12 +44,6 @@ const Exam = () => {
       Router.push("/result");
     }
   };
-
-  useEffect(() => {
-    if (selectedLanguage === null || selectedCategory === null) {
-      Router.push("/");
-    }
-  }, [selectedCategory, selectedLanguage]);
 
   return (
     <div className="flex items-center justify-center min-h-screen bg-gray-50">
