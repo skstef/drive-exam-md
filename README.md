@@ -2,7 +2,7 @@
 
 This is a **web-based application** for practicing the driving exam test in the Republic of Moldova. 🚗 Designed to help learners prepare effectively with an intuitive interface and up-to-date questions. ✅
 
-<!-- Live Version: **[👉 Click Here](#)** (Replace `#` with the actual URL) -->
+Live Version: **[👉 Click Here](https://drive-exam-md.vercel.app/)** (Replace `#` with the actual URL)
 
 ---
 
