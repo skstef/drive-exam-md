@@ -4,6 +4,8 @@ import { RootState } from "../store";
 import { setLanguage } from "../store/slices/exam/examSlice";
 import { useTranslation } from "next-i18next";
 import { LanguageButton } from "@/components/languages/LanguageButton";
+import { GetStaticPropsContext } from "next";
+import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 
 const Home = () => {
   const router = useRouter();
@@ -56,5 +58,13 @@ const Home = () => {
     </div>
   );
 };
+
+export async function getStaticProps({ locale }: GetStaticPropsContext) {
+  return {
+    props: {
+      ...(await serverSideTranslations(locale as string, ["common"])),
+    },
+  };
+}
 
 export default Home;
